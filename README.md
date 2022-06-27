@@ -123,7 +123,7 @@ Kemudian secara automatis akan masuk ke Menu Kali-Nethunter.
 
 nethunter kex passwd
 
-Jika ada pilihan (Y/N) pilih Y lalu enter, tulis kembali pasword nya lagi.
+Jika ada pilihan (Y/N) pilih Y lalu enter, tulis kembali paswordnya lagi.
 
 Untuk yang sudah buat tidak perlu lagi membuat password, lalu bisa langsung ketik perintah dibawa ini.
 
