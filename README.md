@@ -180,3 +180,17 @@ Lalu klik CREATE, selanjutnya klik CONNECT.
 •> Masukan passwordnya yang sudah dibuat di Termux, klik CONTINUE.
 
 Jika sebelumnya sudah dibuat, untuk selanjutnya tinggal klik Nama Kali-Nethunter dan secara automatis akan masuk ke tampilan awal Desktop Nethunter.
+
+Untuk keluar dari tampilan Desktop Nethunter klik tombol X dikanan, lalu tinggal keluar aplikasi dengan klik kembali pada ponsel.
+
+Kemudian buka termux untuk menghentikan Nethunter.
+
+•> Buka termux, ketik perintah :
+
+nethunter kex stop
+
+•> Selanjutnya ketik perintah :
+
+exit
+
+Untuk keluar dari aplikasi termux.
