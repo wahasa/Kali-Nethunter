@@ -24,6 +24,46 @@ http://kali.download/nethunter-images/current/rootfs/?C=S&O=D
 
 <•> Langkah-Langkah <•>
 
+Untuk termux disetiap akhir perintah yang sudah ditulis, klik enter pada keyboard.
+
+1. Buka termux dengan perintah :
+
+•> Perintah Update dan Upgrade package, ketik :
+
+pkg update && pkg upgrade
+
+Jika ada pilihan (Y/N) pilih Y , jika ada pilihan (Y/I/N/O/D/Z) pilih semua N lalu enter.
+
+•> Perintah install Repository Root, ketik :
+
+pkg install root-repo
+
+•> Perintah install Repository X11, ketik :
+
+pkg install x11-repo
+
+•> Perintah install package Wget, ketik :
+
+pkg install wget
+
+Jika ada pilihan (Y/N) pilih Y lalu enter.
+
+•> Perintah menghilangkan tulisan No group of mirrors selected, ketik :
+
+termux-change-repo
+
+Akan muncul Menu termux-change-repo, lalu pilih :
+
+(*) All mirrors
+
+Kemudian klik tombol <OK> / Enter.
+
+•> Perintah mengakses Sdcard,  ketik :
+
+termux-setup-storage
+
+Jika ada notifikasi perizinan akses silahkan klik tombol IZINKAN.
+
 
 
 # Cara menggunakan VNC Viewer
