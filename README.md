@@ -63,6 +63,81 @@ termux-setup-storage
 
 Jika ada notifikasi perizinan akses silahkan klik tombol IZINKAN.
 
+2. Selanjutnya untuk menginstall Kali-Nethunter ada 2 cara yaitu :
+
+A. Install dari termux
+
+> Perintah download skrip Nethunter, ketik :
+
+wget -O nethunter https://raw.githubusercontent.com/wahasa/nethunter/main/nethunter
+
+> Perintah mengaktifkan skrip Nethunter, ketik :
+
+chmod +x nethunter
+
+> Perintah menjalankan skrip Nethunter,  ketik :
+
+./nethunter
+
+Tunggu sampai download file Kali-Nethunter size 1,6 Gb dan extract file hingga selesai, jika sudah selesai akan muncul Menu Kali-Nethunter. 
+
+
+B. Install dari Sdcard
+
+•> Perintah membuka Sdcard, ketik :
+
+cd /sdcard
+
+•> Perintah mengcopy file dari Sdcard, ketik :
+
+cp kalifs-arm64-full.tar.xz /data/data/com.termux/files/home
+
+jika menggunakan Armhf tinggal ganti nama printahnya saja, kalifs-arm64-full.tar.xz menjadi kalifs-armhf-full.tar.xz
+
+•> Perintah kembali ke $ (home) termux, ketik :
+
+cd
+
+•> Perintah download skrip Nethunter, ketik :
+
+wget -O nethunter https://raw.githubusercontent.com/wahasa/nethunter/main/nethunter
+
+•> Perintah mengaktifkan skrip Nethunter, ketik :
+
+chmod +x nethunter
+
+•> Perintah menjalankan skrip Nethunter,  ketik :
+
+./nethunter
+
+Lalu akan muncul tulisan KALI , jika ada pilihan (Y/N) pilih N lalu enter.
+
+Tunggu proses extract file selesai sekitar 10-15 menit, jika ada pilihan (Y/N) pilih N lalu enter.
+
+Kemudian secara automatis akan masuk ke Menu Kali-Nethunter.
+
+
+3. Setelah sudah ditampilan Menu Kali-Nethunter, buat password untuk masuk ke Vnc Viewer nanti.
+
+•> Perintah membuat password baru, ketik :
+
+nethunter kex passwd
+
+Untuk yang sudah buat tidak perlu lagi membuat password, lalu bisa langsung ketik perintah dibawa ini.
+
+•> Perintah menjalankan Kali-Nethunter, ketik :
+nethunter kex &
+
+Lalu tinggal buka Aplikasi Vnc Viewer.
+
+•> Perintah menghentikan Kali-Nethunter, ketik :
+
+nethunter kex stop
+
+
+
+Tutorial Official Install Kali-Nethunter
+https://www.kali.org/docs/nethunter/nethunter-rootless
 
 # Cara menggunakan VNC Viewer
 
