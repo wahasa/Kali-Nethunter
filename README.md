@@ -21,7 +21,6 @@ Cek List lainnya
 http://kali.download/nethunter-images/current/rootfs/?C=S&O=D
 
 
-
 <•> Langkah-Langkah <•>
 
 Untuk termux disetiap akhir perintah yang sudah ditulis, klik enter pada keyboard.
@@ -63,7 +62,6 @@ Kemudian klik tombol <OK> / Enter.
 termux-setup-storage
 
 Jika ada notifikasi perizinan akses silahkan klik tombol IZINKAN.
-
 
 
 # Cara menggunakan VNC Viewer
