@@ -2,20 +2,26 @@
 
 <•> Bahan-Bahan <•>
 
-1. Termux >
+1. Termux
 https://github.com/termux/termux-app/releases
-2. Vnc Viewer >
+
+2. Vnc Viewer
 https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
-3. X-plore (Aplikasi tambahan untuk install diSdcard) >
+
+3. X-plore (Aplikasi tambahan untuk install diSdcard)
 https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore
+
 
 Jika ingin Install diSdcard Link Download File Kali-Nethunter dibawah ini :
 
-Kalifs Arm64 Full | Size 1.6 Gb (Arm64-v8a) 
+Kalifs Arm64 Full | Size 1.6 Gb (Arm64-v8a)
+
 http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz
 
-Kalifs Armhf Full | Size 1.6 Gb (Armeabi-v7a) 
+Kalifs Armhf Full | Size 1.6 Gb (Armeabi-v7a)
+
 http://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz
+
 
 Cek List lainnya
 http://kali.download/nethunter-images/current/rootfs/?C=S&O=D
@@ -55,7 +61,7 @@ Akan muncul Menu termux-change-repo, lalu pilih :
 
 (*) All mirrors
 
-Kemudian klik tombol <OK> / Enter.
+Kemudian klik tombol OK / Enter.
 
 •> Perintah mengakses Sdcard,  ketik :
 
@@ -86,6 +92,17 @@ Setelah selesai mendownload tunggu proses extract file sekitar 10-15 menit, jika
 Kemudian secara automatis akan masuk ke Menu Kali-Nethunter.
 
 B. Install dari Sdcard
+
+Sebelumnya sudah mendownload file Kali-Nethunter link diatas, selanjutnya :
+
+•> Buka X-plore (Bebas pakai File Menejer), lalu pilih Folder Download
+
+•> Kemudian cari file  kalifs-arm64-full.tar.xz/kalifs-armhf-full.tar.xz
+
+•> Pindah file tadi ke Penyimpanan Internal (Diluar Folder) 
+
+
+Selanjutnya buka Termux dengan perintah :
 
 •> Perintah membuka Sdcard, ketik :
 
@@ -131,6 +148,7 @@ Jika ada pilihan (Y/N) pilih Y lalu enter, tulis kembali paswordnya lagi.
 Untuk yang sudah buat tidak perlu lagi membuat password, lalu bisa langsung ketik perintah dibawa ini.
 
 •> Perintah menjalankan Kali-Nethunter, ketik :
+
 nethunter kex &
 
 Lalu tinggal buka Aplikasi Vnc Viewer.
@@ -173,9 +191,11 @@ Selanjutnya tinggal buka Vnc Viewer.
 •> Klik tombol ( + ) lalu akan muncul New Connection, isi dengan :
 
 Address
+
 127.0.0.1:5901
 
 Name
+
 Kali-Nethunter
 
 Lalu klik CREATE, selanjutnya klik CONNECT.
