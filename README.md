@@ -67,20 +67,23 @@ Jika ada notifikasi perizinan akses silahkan klik tombol IZINKAN.
 
 A. Install dari termux
 
-> Perintah download skrip Nethunter, ketik :
+•> Perintah download skrip Nethunter, ketik :
 
 wget -O nethunter https://raw.githubusercontent.com/wahasa/nethunter/main/nethunter
 
-> Perintah mengaktifkan skrip Nethunter, ketik :
+•> Perintah mengaktifkan skrip Nethunter, ketik :
 
 chmod +x nethunter
 
-> Perintah menjalankan skrip Nethunter,  ketik :
+•> Perintah menjalankan skrip Nethunter,  ketik :
 
 ./nethunter
 
-Tunggu sampai download file Kali-Nethunter size 1,6 Gb dan extract file hingga selesai, jika sudah selesai akan muncul Menu Kali-Nethunter. 
+Lalu akan muncul tulisan KALI , automatis akan mendownload file Kali-Nethunter size sebesar 1,6 Gb.
 
+Setelah selesai mendownload tunggu proses extract file sekitar 10-15 menit, jika ada pilihan (Y/N) pilih N lalu enter.
+
+Kemudian secara automatis akan masuk ke Menu Kali-Nethunter.
 
 B. Install dari Sdcard
 
