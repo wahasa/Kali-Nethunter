@@ -57,7 +57,7 @@ Jika ada notifikasi perizinan akses silahkan klik tombol IZINKAN.
 
 
 
-**2. Untuk Install Kali-Nethunter ada 2 yaitu :**
+**2. Untuk Install Kali-Nethunter ada 2, yaitu :**
 
 A. Install dari Termux
 
@@ -74,7 +74,7 @@ Lalu akan muncul tulisan KALI , automatis akan mendownload file Kali-Nethunter s
 
 Setelah selesai mendownload tunggu proses extract file sekitar 10-15 menit, jika ada pilihan (Y/N) pilih N lalu enter.
 
-Kemudian secara automatis akan masuk ke Menu Kali-Nethunter.
+Kemudian secara automatis akan masuk ke Menu Kali-Nethunter, lanjut bagian 3.
 
 B. Install dari Sdcard
 
@@ -110,7 +110,7 @@ Lalu akan muncul tulisan KALI , jika ada pilihan (Y/N) pilih N lalu enter.
 
 Tunggu proses extract file selesai sekitar 10-15 menit, jika ada pilihan (Y/N) pilih N lalu enter.
 
-Kemudian secara automatis akan masuk ke Menu Kali-Nethunter.
+Kemudian secara automatis akan masuk ke Menu Kali-Nethunter, lanjut bagian 3.
 
 
 
@@ -135,6 +135,11 @@ Lalu tinggal buka Aplikasi Vnc Viewer.
 
 * Untuk menghentikan Kali-Nethunter, ketik :
 > nethunter kex stop
+
+* Untuk keluar aplikasi Termux, ketik :
+> exit
+
+Lalu enter.
 
 Tutorial Official Install
 https://www.kali.org/docs/nethunter/nethunter-rootless
