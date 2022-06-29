@@ -56,21 +56,18 @@ Jika ada notifikasi perizinan akses silahkan klik tombol IZINKAN.
 
 
 
-**2. Untuk menginstall Kali-Nethunter ada 2 cara yaitu :**
+**2. Untuk Install Kali-Nethunter ada 2 yaitu :**
 
-**A. Install dari Termux**
+A. Install dari Termux
 
-•> Perintah download skrip Nethunter, ketik :
+* Download skrip Nethunter, ketik :
+> wget -O nethunter https://raw.githubusercontent.com/wahasa/nethunter/main/nethunter
 
-wget -O nethunter https://raw.githubusercontent.com/wahasa/nethunter/main/nethunter
+* Untuk mengaktifkan skrip, ketik :
+> chmod +x nethunter
 
-•> Perintah mengaktifkan skrip Nethunter, ketik :
-
-chmod +x nethunter
-
-•> Perintah menjalankan skrip Nethunter,  ketik :
-
-./nethunter
+* Untuk menjalankan skrip, ketik :
+> ./nethunter
 
 Lalu akan muncul tulisan KALI , automatis akan mendownload file Kali-Nethunter size sebesar 1,6 Gb.
 
@@ -82,40 +79,31 @@ B. Install dari Sdcard
 
 Sebelumnya sudah mendownload file Kali-Nethunter link diatas, selanjutnya :
 
-•> Buka X-plore (Bebas pakai File Menejer), lalu pilih Folder Download
-
-•> Kemudian cari file  kalifs-arm64-full.tar.xz/kalifs-armhf-full.tar.xz
-
-•> Pindah file tadi ke Penyimpanan Internal (Diluar Folder) 
-
+* Buka X-plore (Bebas pakai File Menejer), lalu pilih Folder Download
+* Kemudian cari file  kalifs-arm64-full.tar.xz / kalifs-armhf-full.tar.xz
+* Pindah file tadi ke Penyimpanan Internal (Diluar Folder) 
 
 Selanjutnya buka Termux dengan perintah :
 
-•> Perintah membuka Sdcard, ketik :
+* Membuka Sdcard, ketik :
+> cd /sdcard
 
-cd /sdcard
+* Mengcopy file dari Sdcard, ketik :
+> cp kalifs-arm64-full.tar.xz /data/data/com.termux/files/home
 
-•> Perintah mengcopy file dari Sdcard, ketik :
+jika menggunakan Armhf tinggal ganti nama printahnya saja, kalifs-arm64-full.tar.xz jadi kalifs-armhf-full.tar.xz
 
-cp kalifs-arm64-full.tar.xz /data/data/com.termux/files/home
+* Untuk kembali ke $ (home) termux, ketik :
+> cd
 
-jika menggunakan Armhf tinggal ganti nama printahnya saja, kalifs-arm64-full.tar.xz menjadi kalifs-armhf-full.tar.xz
+* Download skrip Nethunter, ketik :
+> wget -O nethunter https://raw.githubusercontent.com/wahasa/nethunter/main/nethunter
 
-•> Perintah kembali ke $ (home) termux, ketik :
+* Untuk mengaktifkan skrip, ketik :
+> chmod +x nethunter
 
-cd
-
-•> Perintah download skrip Nethunter, ketik :
-
-wget -O nethunter https://raw.githubusercontent.com/wahasa/nethunter/main/nethunter
-
-•> Perintah mengaktifkan skrip Nethunter, ketik :
-
-chmod +x nethunter
-
-•> Perintah menjalankan skrip Nethunter,  ketik :
-
-./nethunter
+* Untuk menjalankan skrip,  ketik :
+> ./nethunter
 
 Lalu akan muncul tulisan KALI , jika ada pilihan (Y/N) pilih N lalu enter.
 
@@ -124,70 +112,65 @@ Tunggu proses extract file selesai sekitar 10-15 menit, jika ada pilihan (Y/N) p
 Kemudian secara automatis akan masuk ke Menu Kali-Nethunter.
 
 
-3. Setelah sudah ditampilan Menu Kali-Nethunter, buat password untuk masuk ke Vnc Viewer nanti.
 
-•> Perintah membuat password baru, ketik :
+**3. Setelah diMenu Kali-Nethunter buat password baru**
 
-nethunter kex passwd
+Pasword akan digunakan untuk masuk ke Vnc Viewer nanti.
+
+* Untuk membuat password baru, ketik :
+> nethunter kex passwd
 
 Jika ada pilihan (Y/N) pilih Y lalu enter, tulis kembali paswordnya lagi.
 
-Untuk yang sudah buat tidak perlu lagi membuat password, lalu bisa langsung ketik perintah dibawa ini.
+Untuk yang sudah buat tidak perlu lagi membuat password, setelah itu bisa langsung ketik perintah dibawa ini.
 
-•> Perintah menjalankan Kali-Nethunter, ketik :
+* Untuk menjalankan Kali-Nethunter, ketik :
+> nethunter kex &
 
-nethunter kex &
+Atau
+> nh kex &
 
 Lalu tinggal buka Aplikasi Vnc Viewer.
 
-•> Perintah menghentikan Kali-Nethunter, ketik :
+* Untuk menghentikan Kali-Nethunter, ketik :
+> nethunter kex stop
 
-nethunter kex stop
-
-
-
-Tutorial Official Install Kali-Nethunter
+Tutorial Official Install
 https://www.kali.org/docs/nethunter/nethunter-rootless
 
-# Cara menggunakan VNC Viewer
 
+------------------------------
 
-Sebelum menggunakan Vnc Viewer buka dulu Termux.
+## Cara menggunakan VNC Viewer
 
-•>  Buka Termux, ketik perintah :
+**1. Sebelum menggunakan Vnc Viewer buka dulu Termux**
+* Buka Termux, ketik perintah :
+> ./nethunter
 
-./nethunter
+Jika ada pilihan (Y/N), pilih semua N lalu enter, dan akan muncul ke Menu Kali-Nethunter.
 
-Lalu akan muncul ke Menu Kali-Nethunter.
+* Kemudian, ketik perintah :
 
-•> Kemudian, ketik perintah :
-
-nethunter kex &
+>nethunter kex &
 
 Atau
+>nh kex &
 
-nh kex &
+**2. Selanjutnya tinggal buka Vnc Viewer**
 
-Jika ada pilihan (Y/N), pilih semua N lalu enter.
+* Buka Vnc Viewer.
 
-
-Selanjutnya tinggal buka Vnc Viewer.
-
-•> Buka Vnc Viewer.
-
-•> Klik tombol ( + ) lalu akan muncul New Connection, isi dengan :
+* Klik tombol ( + ) lalu akan muncul New Connection, isi dengan :
 
 Address
-
-127.0.0.1:5901
+> 127.0.0.1:5901
 
 Name
-
-Kali-Nethunter
+> Kali-Nethunter
 
 Lalu klik CREATE, selanjutnya klik CONNECT.
 
-•> Masukan passwordnya yang sudah dibuat di Termux, klik CONTINUE.
+* Masukan password yang sudah dibuat diTermux, klik CONTINUE.
 
 Jika sebelumnya sudah dibuat, untuk selanjutnya tinggal klik Nama Kali-Nethunter dan secara automatis akan masuk ke tampilan awal Desktop Nethunter.
 
@@ -195,12 +178,20 @@ Untuk keluar dari tampilan Desktop Nethunter klik tombol X dikanan, lalu tinggal
 
 Kemudian buka termux untuk menghentikan Nethunter.
 
-•> Buka termux, ketik perintah :
+* Buka Termux, ketik perintah :
 
-nethunter kex stop
+> nethunter kex stop
 
-•> Selanjutnya ketik perintah :
+* Selanjutnya ketik perintah :
 
-exit
+> exit
 
-Untuk keluar dari aplikasi termux.
+Untuk keluar dari aplikasi Termux, dan untuk menghentikannya berjalan dilatar belakang ponsel.
+
+
+
+$Termux$
+$KaliNethunter$
+$2022.2$
+$NoRoot$
+$Android$
