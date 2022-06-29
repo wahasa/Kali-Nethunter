@@ -1,15 +1,15 @@
-## Cara Menginstall Kali-Nethunter Termux Android
+## Cara Install Kali-Nethunter Termux
 ---------------
 ### Bahan-Bahan
 1. [Termux](https://github.com/termux/termux-app/releases)
 2. [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
 3. [X-plore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
-(Apps tambahan untuk install diSdcard)
+(Untuk install diSdcard)
 
 Jika ingin Install diSdcard Link Download File Kali-Nethunter dibawah ini :
 
-* [Kalifs Arm64 Full | Size 1.6 Gb (Arm64-v8a)](http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz)
-* [Kalifs Armhf Full | Size 1.6 Gb (Armeabi-v7a)](http://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz)
+* [Kalifs Arm64 Full (Arm64-v8a)](http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz) | Size 1.6 Gb
+* [Kalifs Armhf Full (Armeabi-v7a)](http://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz) | Size 1.6 Gb
 
 Cek List lainnya
 http://kali.download/nethunter-images/current/rootfs/?C=S&O=D
