@@ -1,4 +1,4 @@
-## Cara Install Kali-Nethunter Termux
+## Cara Install Kali-Nethunter
 ---------------
 ### Bahan-Bahan
 1. [Termux](https://github.com/termux/termux-app/releases)
@@ -6,9 +6,9 @@
 3. [X-plore](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
 (Untuk install diSdcard)
 
-Jika ingin Install diSdcard Link Download File Kali-Nethunter dibawah ini :
+Jika ingin Install diSdcard Link Download File dibawah ini :
 
-* Kalifs Arm64 Full (Arm64-v8a)| Size 1.6 Gb
+* Kalifs Arm64 Full (Arm64-v8a) | Size 1.6 Gb
 http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz
 * Kalifs Armhf Full (Armeabi-v7a) | Size 1.6 Gb
 http://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz
@@ -16,52 +16,49 @@ http://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz
 => [Cek List lainnya](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D)
 
 
----------------
-## Langkah-Langkah
+-------------------
+### Langkah-Langkah
 
 Untuk termux disetiap akhir perintah yang sudah ditulis, klik enter pada keyboard.
 
-1. Buka termux dengan perintah :
+**1. Buka termux dengan perintah :**
 
-•> Perintah Update dan Upgrade package, ketik :
-
->pkg update && pkg upgrade
+* Update dan Upgrade package, ketik :
+> pkg update && pkg upgrade
 
 Jika ada pilihan (Y/N) pilih Y , jika ada pilihan (Y/I/N/O/D/Z) pilih semua N lalu enter.
 
-•> Perintah install Repository Root, ketik :
+* Install Repository Root, ketik :
+> pkg install root-repo
 
-pkg install root-repo
+* Install Repository X11, ketik :
+> pkg install x11-repo
 
-•> Perintah install Repository X11, ketik :
-
-pkg install x11-repo
-
-•> Perintah install package Wget, ketik :
-
-pkg install wget
+* Install package Wget, ketik :
+> pkg install wget
 
 Jika ada pilihan (Y/N) pilih Y lalu enter.
 
-•> Perintah menghilangkan tulisan No group of mirrors selected, ketik :
+* Untuk menghilangkan tulisan 'No group of mirrors selected, ...' , ketik :
 
-termux-change-repo
+> termux-change-repo
 
-Akan muncul Menu termux-change-repo, lalu pilih :
-
-(*) All mirrors
+Akan muncul 'Menu Termux-Change-Repo' , lalu pilih :
+> (*) All mirrors
 
 Kemudian klik tombol OK / Enter.
 
-•> Perintah mengakses Sdcard,  ketik :
+* Untuk mengakses Sdcard, ketik :
 
-termux-setup-storage
+> termux-setup-storage
 
 Jika ada notifikasi perizinan akses silahkan klik tombol IZINKAN.
 
-2. Selanjutnya untuk menginstall Kali-Nethunter ada 2 cara yaitu :
 
-A. Install dari termux
+
+**2. Untuk menginstall Kali-Nethunter ada 2 cara yaitu :**
+
+**A. Install dari Termux**
 
 •> Perintah download skrip Nethunter, ketik :
 
