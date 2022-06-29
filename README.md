@@ -10,8 +10,10 @@
 Jika ingin Install diSdcard Link Download File dibawah ini :
 
 * Kalifs Arm64 Full (Arm64-v8a) | Size 1.6 Gb
+
 http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz
 * Kalifs Armhf Full (Armeabi-v7a) | Size 1.6 Gb
+
 http://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz
 
 => [Cek List lainnya](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D)
