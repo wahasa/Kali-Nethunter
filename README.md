@@ -8,14 +8,16 @@
 
 Jika ingin Install diSdcard Link Download File Kali-Nethunter dibawah ini :
 
-* [Kalifs Arm64 Full (Arm64-v8a)](http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz) | Size 1.6 Gb
-* [Kalifs Armhf Full (Armeabi-v7a)](http://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz) | Size 1.6 Gb
+* Kalifs Arm64 Full (Arm64-v8a)| Size 1.6 Gb
+http://kali.download/nethunter-images/current/rootfs/kalifs-arm64-full.tar.xz
+* Kalifs Armhf Full (Armeabi-v7a) | Size 1.6 Gb
+http://kali.download/nethunter-images/current/rootfs/kalifs-armhf-full.tar.xz
 
-Cek List lainnya
-http://kali.download/nethunter-images/current/rootfs/?C=S&O=D
+=> [Cek List lainnya](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D)
+
 
 ---------------
-Langkah-Langkah
+## Langkah-Langkah
 
 Untuk termux disetiap akhir perintah yang sudah ditulis, klik enter pada keyboard.
 
