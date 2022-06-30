@@ -1,5 +1,11 @@
 
 ## Cara Install Kali-Nethunter
+
+---------------
+Peringatan :
+
+Khusus Android 12 untuk Kali-Nethunter ada Bug, dan untuk detailnya bisa baca diOffcial [Termux](https://github.com/termux/termux-app).
+
 ---------------
 ### Bahan-Bahan
 1. [Termux](https://github.com/termux/termux-app/releases)
@@ -200,6 +206,6 @@ Untuk keluar dari aplikasi Termux, dan untuk menghentikannya berjalan dilatar be
 
 $Termux$
 $KaliNethunter$
-$2022.2$
+$2022$
 $NoRoot$
 $Android$
