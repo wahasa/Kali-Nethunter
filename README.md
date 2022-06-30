@@ -204,8 +204,4 @@ Untuk keluar dari aplikasi Termux, dan untuk menghentikannya berjalan dilatar be
 
 
 
-$Termux$
-$KaliNethunter$
-$2022$
-$NoRoot$
-$Android$
+LG-2022 / KaliNethunter-NoRoot.
