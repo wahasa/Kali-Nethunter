@@ -154,7 +154,7 @@ https://www.kali.org/docs/nethunter/nethunter-rootless
 
 
 ---------------
-#### Untuk masalah bug Nethunter cek di [Issues](https://github.com/wahasa/nethunter/issues/3)
+#### Untuk Bug Nethunter cek di [Issues](https://github.com/wahasa/nethunter/issues/3)
 
 ------------------------------
 
