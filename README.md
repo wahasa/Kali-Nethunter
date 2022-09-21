@@ -70,7 +70,7 @@ https://www.kali.org/docs/nethunter/nethunter-rootless
 
 
 ---------------
-#### Untuk Bug Nethunter cek di [Issues](https://github.com/wahasa/nethunter/issues/3)
+Untuk Bug Nethunter cek di [Issues](https://github.com/wahasa/nethunter/issues/3)
 
 ------------------------------
 
@@ -93,15 +93,20 @@ Tambahkan (+) VNC Client untuk connect, isi dengan :
 
 Address
 > localhost:1
+
 Name
-Kali-Nethunter
+> Kali-Nethunter
 
 Untuk memutuskan VNC Client, klik (X) di sebelah kanan.
 
 3. Hentikan Vnc Server
+
 ditermux, jalankan perintah ini untuk menghentikan:
 
 > nethunter kex stop
 
+---
 
 LG-2022 / KaliNethunter-NoRoot.
+
+---
