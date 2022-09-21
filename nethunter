@@ -1,4 +1,11 @@
 #!/data/data/com.termux/files/usr/bin/bash -e
+pkg install root-repo x11-repo
+
+termux-setup-storage
+
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Patch/audiofix.sh && chmod +x audiofix.sh && ./audiofix.sh
+
+rm audiofix.sh
 
 VERSION=2020011601
 BASE_URL=https://kali.download/nethunter-images/current/rootfs
@@ -168,6 +175,8 @@ function create_launcher() {
     NH_SHORTCUT=${PREFIX}/bin/nh
     cat > $NH_LAUNCHER <<- EOF
 #!/data/data/com.termux/files/usr/bin/bash -e
+pulseaudio -k >> /dev/null 2>&1
+pulseaudio --start >> /dev/null 2>&1
 cd \${HOME}
 ## termux-exec sets LD_PRELOAD so let's unset it before continuing
 unset LD_PRELOAD
