@@ -13,6 +13,10 @@ Khusus untuk Android 12 terdapat beberapa bug, dan untuk lebih jelasnya silahkan
 3. [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D) (install dari Sdcard)
 
 Note :
+
+Sebelum download ketik perintah ini ditermux :
+> uname -m
+
 * Kalifs Arm64 (Arm64-v8a/AArch64)
 * Kalifs Armhf (armeabi-v7a/v6a/v5a)
 
@@ -72,51 +76,32 @@ https://www.kali.org/docs/nethunter/nethunter-rootless
 
 ## Cara menggunakan VNC Viewer
 
-**1. Sebelum menggunakan Vnc Viewer buka dulu Termux**
-* Buka Termux, ketik perintah :
-> ./nethunter
+1. Buka Termux, ketik perintah :
 
-Jika ada pilihan (Y/N), pilih semua N lalu enter, dan akan muncul ke Menu Kali-Nethunter.
-
-* Kemudian, ketik perintah :
-
->nethunter kex &
+> nethunter kex &
 
 Atau
->nh kex &
+> nh kex &
 
-**2. Selanjutnya tinggal buka Vnc Viewer**
+Note :
 
-* Buka Vnc Viewer.
+Akan muncul untuk membuat passwod baru, jika sudah buat pakai yang lama.
 
-* Klik tombol ( + ) lalu akan muncul New Connection, isi dengan :
+2. Selanjutnya buka Vnc Viewer
+
+Tambahkan (+) VNC Client untuk connect, isi dengan :
 
 Address
-> 127.0.0.1:5901
-
+> localhost:1
 Name
-> Kali-Nethunter
+Kali-Nethunter
 
-Lalu klik CREATE, selanjutnya klik CONNECT.
+Untuk memutuskan VNC Client, klik (X) di sebelah kanan.
 
-* Masukan password yang sudah dibuat diTermux, klik CONTINUE.
-
-Jika sebelumnya sudah dibuat, untuk selanjutnya tinggal klik Nama Kali-Nethunter dan secara automatis akan masuk ke tampilan awal Desktop Nethunter.
-
-Untuk keluar dari tampilan Desktop Nethunter klik tombol X dikanan, lalu tinggal keluar aplikasi dengan klik kembali pada ponsel.
-
-Kemudian buka termux untuk menghentikan Nethunter.
-
-* Buka Termux, ketik perintah :
+3. Hentikan Vnc Server
+ditermux, jalankan perintah ini untuk menghentikan:
 
 > nethunter kex stop
-
-* Selanjutnya ketik perintah :
-
-> exit
-
-Untuk keluar dari aplikasi Termux, dan untuk menghentikannya berjalan dilatar belakang ponsel.
-
 
 
 LG-2022 / KaliNethunter-NoRoot.
