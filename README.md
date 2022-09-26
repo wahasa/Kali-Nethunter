@@ -1,4 +1,3 @@
-
 ## Cara Install Kali-Nethunter
 
 ---------------
@@ -69,6 +68,7 @@ Atau
 4. Keluar Kali-Nethunter, ketik :
 > exit
 
+---
 Tutorial Official Install
 https://www.kali.org/docs/nethunter/nethunter-rootless
 
@@ -88,6 +88,7 @@ Note :
 
 Akan muncul untuk membuat passwod baru, jika sudah buat pakai yang lama.
 
+---
 2. Selanjutnya buka Vnc Viewer
 
 Tambahkan (+) VNC Client untuk connect, isi dengan :
@@ -98,8 +99,11 @@ Address
 Name
 > Kali-Nethunter
 
+Note :
+
 Untuk memutuskan VNC Client, klik (X) di sebelah kanan.
 
+---
 3. Hentikan Vnc Server
 
 ditermux, jalankan perintah ini untuk menghentikan:
