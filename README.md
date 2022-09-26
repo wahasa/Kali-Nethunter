@@ -14,11 +14,11 @@ Khusus untuk Android 12 terdapat beberapa bug, dan untuk lebih jelasnya silahkan
 
 Note :
 
-Sebelum download ketik perintah ini ditermux :
+Sebelum download ketik perintah ditermux :
 > uname -m
 
+* Kalifs Armhf (armeabi-v7a/v6a)
 * Kalifs Arm64 (Arm64-v8a/AArch64)
-* Kalifs Armhf (armeabi-v7a/v6a/v5a)
 
 -------------------
 ### Langkah-Langkah
@@ -29,7 +29,8 @@ Salin dan tempel perintah ini ke Termux :
 
 > pkg install root-repo x11-repo
 
-* Install kali-Nethunter dari termux
+---
+1. Install kali-Nethunter dari termux
 ```
 pkg install wget -y && wget  && chmod +x  && ./
 ```
@@ -38,7 +39,9 @@ pkg install wget -y && wget  && chmod +x  && ./
 Note :
 
 Ukuran file 1.7 Gb, waktu extract file 10-15 menit dan setelah selesai akan masuk ke menu Kali-Nethunter.
-* Install kali-Nethunter dari termux
+
+---
+2. Install kali-Nethunter dari termux
 > termux-setup-storage
 
 > cd /sdcard/Download
@@ -55,14 +58,15 @@ Note :
 
 Jika ada (Y/N) pilih N semua, waktu extract file 10-15 menit dan setelah selesai akan masuk ke menu Kali-Nethunter.
 
-* Mulai Kali-Nethunter, ketik :
+---
+3. Mulai Kali-Nethunter, ketik :
 > nethunter
 
-or
+Atau
 
 > nh
 
-* Keluar Kali-Nethunter, ketik :
+4. Keluar Kali-Nethunter, ketik :
 > exit
 
 Tutorial Official Install
@@ -79,9 +83,6 @@ Untuk Bug Nethunter cek di [Issues](https://github.com/wahasa/nethunter/issues/3
 1. Buka Termux, ketik perintah :
 
 > nethunter kex &
-
-Atau
-> nh kex &
 
 Note :
 
@@ -106,7 +107,7 @@ ditermux, jalankan perintah ini untuk menghentikan:
 > nethunter kex stop
 
 ---
-
-LG-2022 / KaliNethunter-NoRoot.
+<p align="center">
+<a href="https://youtube.com/channel/UC3sLb7eZCu72iv3G1yUhUHQ">Layar Geser</a></p>
 
 ---
