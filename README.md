@@ -31,7 +31,7 @@ Salin dan tempel perintah ini ke Termux :
 ---
 1. Install kali-Nethunter dari termux
 ```
-pkg install wget -y && wget  && chmod +x  && ./
+pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
 ```
 
 
@@ -49,7 +49,7 @@ Ukuran file 1.7 Gb, waktu extract file 10-15 menit dan setelah selesai akan masu
 
 > cd 
 ```
-pkg install wget -y && wget  && chmod +x  && ./
+pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
 ```
 
 
