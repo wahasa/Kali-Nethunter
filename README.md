@@ -48,7 +48,7 @@ Ukuran file 1.7 Gb, waktu extract file 10-15 menit dan setelah selesai akan masu
 
 > cp (Nama file) ~/
 
-> cd
+> cd 
 ```
 pkg install wget -y && wget  && chmod +x  && ./
 ```
