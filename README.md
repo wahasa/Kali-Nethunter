@@ -78,7 +78,7 @@ Untuk Bug Nethunter cek di [Issues](https://github.com/wahasa/nethunter/issues/3
 
 ------------------------------
 
-## Cara menggunakan VNC Viewer
+## Cara memakai VNC Viewer
 
 1. Buka Termux, ketik perintah :
 
