@@ -68,13 +68,20 @@ Atau
 4. Keluar Kali-Nethunter, ketik :
 > exit
 
+
+Note :
+
+[sudo] password for kali:kali
+
 ---
-Tutorial Official Install
-https://www.kali.org/docs/nethunter/nethunter-rootless
+Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-rootless)
 
 
 ---------------
-Untuk Bug Nethunter cek di [Issues](https://github.com/wahasa/nethunter/issues/3)
+- [x] Soundfix [Click hare](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178462491)
+- [x] Browserfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178448051)
+
+Untuk masalah lainnya cek di [Issues](https://github.com/wahasa/nethunter/issues)
 
 ------------------------------
 
@@ -86,7 +93,7 @@ Untuk Bug Nethunter cek di [Issues](https://github.com/wahasa/nethunter/issues/3
 
 Note :
 
-Akan muncul untuk membuat passwod baru, jika sudah buat pakai yang lama.
+Akan muncul untuk membuat passwd baru, jika sudah buat pakai yang lama.
 
 ---
 2. Selanjutnya buka Vnc Viewer
