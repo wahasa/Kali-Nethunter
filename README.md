@@ -113,7 +113,7 @@ Untuk memutuskan VNC Client, klik (X) di sebelah kanan.
 ---
 3. Hentikan Vnc Server
 
-ditermux, jalankan perintah ini untuk menghentikan:
+ditermux, ketik perintah ini :
 
 > nethunter kex stop
 
