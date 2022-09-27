@@ -78,7 +78,7 @@ Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-roo
 
 
 ---------------
-- [x] Soundfix [Click hare](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178462491)
+- [x] Soundfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178462491)
 - [x] Browserfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178448051)
 
 Untuk masalah lainnya cek di [Issues](https://github.com/wahasa/nethunter/issues)
