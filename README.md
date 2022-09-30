@@ -2,49 +2,46 @@
 | <a href="https://discord.gg/GCehyym">Discord</a> | <a href="https://youtube.com/channel/UC3sLb7eZCu72iv3G1yUhUHQ">YouTube</a> |</b></p>
 
 ---
-## Cara Install Kali-Nethunter
+## Kali-Linux on Termux Android
 
 ---
-Peringatan :
+Warning :</br>
+Especially for Android 12 there are several bugs, and for more details, please read in Official [Termux](https://github.com/termux/termux-app).
 
-Khusus untuk Android 12 terdapat beberapa bug, dan untuk lebih jelasnya silahkan baca di Official [Termux](https://github.com/termux/termux-app).
-
----------------
-### Bahan-Bahan
+---
+### Materials</br>
 1. [Termux](https://github.com/termux/termux-app/releases)
 2. [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
-3. [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D) (install dari Sdcard)
+3. [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D) (install from sdcard)
 
-Note :
+Note :</br>
+Before downloading, run the command in termux :
 
-Sebelum download ketik perintah ditermux :
 > uname -m
 
 * Kalifs Armhf (armeabi-v7a/v6a)
 * Kalifs Arm64 (Arm64-v8a/AArch64)
 
--------------------
-### Langkah-Langkah
-
-Salin dan tempel perintah ini ke Termux :
+---
+### Installation</br>
+Copy and paste this command to Termux :
 
 > pkg update && pkg upgrade
 
 > pkg install root-repo x11-repo
 
 ---
-1. Install kali-Nethunter dari termux
+1. Install kali-Nethunter from termux.
 ```
 pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
 ```
 
-
-Note :
-
-Ukuran file 1.7 Gb, waktu extract file 10-15 menit dan setelah selesai akan masuk ke menu Kali-Nethunter.
+Note :</br>
+The file size is 1.7 Gb, the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
 
 ---
-2. Install kali-Nethunter dari Sdcard
+2. Install kali-Nethunter from Sdcard.</br>
+
 > termux-setup-storage
 
 > cd /sdcard/Download
@@ -56,73 +53,76 @@ Ukuran file 1.7 Gb, waktu extract file 10-15 menit dan setelah selesai akan masu
 pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
 ```
 
-
-Note :
-
-Jika ada (Y/N) pilih N semua, waktu extract file 10-15 menit dan setelah selesai akan masuk ke menu Kali-Nethunter.
+Note :</br>
+If there are options (Y/N), select (N) all. the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
 
 ---
-3. Mulai Kali-Nethunter, ketik :
+3. Start Kali-Nethunter</br>
+
 > nethunter
 
 Atau
 
 > nh
 
-4. Keluar Kali-Nethunter, ketik :
+---
+4. Stop Kali-Nethunter
+
 > exit
 
+</br>
 
-Note :
-
+Note :</br>
 [sudo] password for kali:kali
+</br>
+</br>
+Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-rootless)
+</br>
 
 ---
-Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-rootless)
+- [x] Soundfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178462491)</br>
+- [x] Browserfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178448051)</br>
+- [x] Install Chromium [Click here]()</br>
+- [x] Install libreoffice [Click here]()</br>
+</br>
 
+Visit problem now in : 
+[Issues](https://github.com/wahasa/nethunter/issues)
 
----------------
-- [x] Soundfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178462491)
-- [x] Browserfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178448051)
+---
+## VNC Viewer
 
-Untuk masalah lainnya cek di [Issues](https://github.com/wahasa/nethunter/issues)
+1. Start VNC Server
 
-------------------------------
-
-## Cara memakai VNC Viewer
-
-1. Buka Termux, ketik perintah :
+on Termux, run this command to start :
 
 > nethunter kex &
 
-Note :
-
-Akan muncul untuk membuat passwd baru, jika sudah buat pakai yang lama.
-
 ---
-2. Selanjutnya buka Vnc Viewer
+2. Open Vnc Viewer
 
-Tambahkan (+) VNC Client untuk connect, isi dengan :
+Add (+) VNC Client to connect, fill with :
 
 Address
-> localhost:1
+
+> localhost:1 
 
 Name
+
 > Kali-Nethunter
 
-Note :
-
-Untuk memutuskan VNC Client, klik (X) di sebelah kanan.
+To disconnect VNC Client, click (X) on the right.
 
 ---
-3. Hentikan Vnc Server
+3. Stop VNC Server
 
-ditermux, ketik perintah ini :
+on Termux, run this command to stop :
 
 > nethunter kex stop
 
+</br>
+
 ---
-<p align="center">
-<a href="https://youtube.com/channel/UC3sLb7eZCu72iv3G1yUhUHQ">Layar Geser</a></p>
+<p align="center">Good Luck</p>
 
 ---
