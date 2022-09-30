@@ -1,3 +1,8 @@
+----
+<p align="center">My Channel</br></br><b>
+<a href="https://discord.gg/GCehyym">Discord</>    <a href="https://youtube.com/channel/UC3sLb7eZCu72iv3G1yUhUHQ">YouTube</a></p>
+
+----
 ## Cara Install Kali-Nethunter
 
 ---------------
