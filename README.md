@@ -40,7 +40,7 @@ Note :
 Ukuran file 1.7 Gb, waktu extract file 10-15 menit dan setelah selesai akan masuk ke menu Kali-Nethunter.
 
 ---
-2. Install kali-Nethunter dari termux
+2. Install kali-Nethunter dari Sdcard
 > termux-setup-storage
 
 > cd /sdcard/Download
