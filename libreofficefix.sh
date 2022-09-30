@@ -1,4 +1,4 @@
 #!/bin/bash
-apt-get install libreoffice -y
+sudo apt install libreoffice -y
 
 rm libreofficefix.sh
