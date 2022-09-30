@@ -32,7 +32,9 @@ Copy and paste this command to Termux :
 > pkg install root-repo x11-repo
 
 ---
-1. Install kali-Nethunter from termux.
+1. Install kali-Nethunter from termux</br>
+on Termux, run this command :
+
 ```
 pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
 ```
@@ -42,7 +44,8 @@ Note :</br>
 The file size is 1.7 Gb, the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
 
 ---
-2. Install kali-Nethunter from Sdcard.</br>
+2. [Install kali-Nethunter from Sdcard](https://youtu.be/ko5m-ghehKw)</br>
+on Termux, run this command :
 
 > termux-setup-storage
 
