@@ -1,4 +1,5 @@
-<p align="center">My Channel</br></br><b>
+---
+<p align="center">My Channel</br><b>
 | <a href="https://discord.gg/GCehyym">Discord</a> | <a href="https://youtube.com/channel/UC3sLb7eZCu72iv3G1yUhUHQ">YouTube</a> |</b></p>
 
 ---
@@ -36,6 +37,7 @@ Copy and paste this command to Termux :
 pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
 ```
 
+</br>
 Note :</br>
 The file size is 1.7 Gb, the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
 
@@ -53,6 +55,7 @@ The file size is 1.7 Gb, the extract time is 10-15 minutes and when it is finish
 pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
 ```
 
+</br>
 Note :</br>
 If there are options (Y/N), select (N) all. the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
 
@@ -60,10 +63,6 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 3. Start Kali-Nethunter</br>
 
 > nethunter
-
-Atau
-
-> nh
 
 ---
 4. Stop Kali-Nethunter
