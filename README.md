@@ -15,7 +15,7 @@ Especially for Android 12 there are several bugs, and for more details, please r
 3. [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D) (install from sdcard)
 
 Note :</br>
-Before downloading, run the command in termux :
+Before downloading, run this command to termux :
 
 > uname -m
 
