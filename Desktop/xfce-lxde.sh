@@ -1,5 +1,7 @@
 #!/bin/bash
 rm -rf ~/.vnc/xstartup
+sudo apt install kali-desktop-lxde -y
+mv /usr/bin/lxpolkit /usr/bin/lxpolkit.bak
 
 wget https://raw.githubusercontent.com/wahasa/nethunter/main/Patch/xstartup -P ~/.vnc/
 
