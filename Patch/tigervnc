@@ -7,4 +7,4 @@ echo "vncserver -kill :1" > $PREFIX/bin/vncstop
 chmod +x $PREFIX/bin/vncstart
 chmod +x $PREFIX/bin/vncstop
 
-rm tigervnc.sh
+rm tigervnc
