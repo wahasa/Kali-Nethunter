@@ -1,6 +1,6 @@
 #!/bin/bash
 rm -rf ~/.vnc/xstartup
-sudo apt install kali-desktop-gnome gnome-session-flashback -y
+sudo apt install kali-desktop-gnome budgie-desktop gnome-session-flashback -y
 
 wget https://raw.githubusercontent.com/wahasa/nethunter/main/Patch/xstartup -P ~/.vnc/
 
