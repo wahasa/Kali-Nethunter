@@ -86,6 +86,8 @@ Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-roo
 - [x] Browserfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178448051)</br>
 - [x] Install Chromium [Click here](https://github.com/wahasa/nethunter/issues/5#issuecomment-1264203443)</br>
 - [x] Install Libre Office [Click here](https://github.com/wahasa/nethunter/issues/5#issuecomment-1264203556)</br>
+- [x] Switch Desktop Environment [Click here](https://github.com/wahasa/nethunter/issues/4)
+
 </br>
 
 Visit problem now in : 
