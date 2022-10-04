@@ -27,7 +27,7 @@ Before downloading, run this command to termux :
 Install Kali-Only [Click here](https://github.com/wahasa/kali-linux)
 
 ---
-### Installation ([Rootless](https://www.kali.org/docs/nethunter/nethunter-rootless))</br>
+### Installation (Via Rootless)</br>
 Copy and paste this command to Termux :
 
 > pkg update && pkg upgrade
