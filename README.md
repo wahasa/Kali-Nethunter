@@ -20,11 +20,14 @@ Before downloading, run this command to termux :
 
 > uname -m
 
-* Kalifs Armhf (armeabi-v7a/v6a)
-* Kalifs Arm64 (Arm64-v8a/AArch64)
+* kalifs-armhf-full (armeabi-v7a/v6a)
+* kalifs-arm64-full (Arm64-v8a/AArch64)
 
 ---
-### Installation</br>
+Install Kali-Only [Click here](https://github.com/wahasa/kali-linux)
+
+---
+### Installation ([Rootless](https://www.kali.org/docs/nethunter/nethunter-rootless))</br>
 Copy and paste this command to Termux :
 
 > pkg update && pkg upgrade
