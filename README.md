@@ -10,10 +10,10 @@ Warning :</br>
 Especially for Android 12 there are several bugs, and for more details, please read in Official [Termux](https://github.com/termux/termux-app).
 
 ---
-### Materials</br>
-1. [Termux](https://github.com/termux/termux-app/releases)
-2. [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
-3. [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D) (install from sdcard)
+• Install Apps on Android
+- [x] [Termux](https://github.com/termux/termux-app/releases)
+- [x] [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
+- [x] [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D) (install from sdcard)
 
 Note :</br>
 Before downloading, run this command to termux :
