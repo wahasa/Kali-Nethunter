@@ -80,7 +80,8 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 Note :</br>
 [sudo] password for kali:kali
 </br>
-</br>
+
+---
 Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-rootless)
 </br>
 
