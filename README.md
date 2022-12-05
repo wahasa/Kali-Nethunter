@@ -6,8 +6,9 @@
 ## Kali-Linux on Termux Android
 
 ---
-Warning :</br>
-Especially for Android 12 there are several bugs, and for more details, please read in Official [Termux](https://github.com/termux/termux-app).
+Announcement :
+
+For android 12 in [Termux v0.119.1](https://apkcombo.com/termux/com.termux/) fixed.
 
 ---
 • Install Apps on Android
