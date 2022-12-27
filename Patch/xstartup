@@ -5,6 +5,7 @@
 unset SESSION_MANAGER
 unset DBUS_SESSION_BUS_ADDRESS
 export SHELL=/bin/bash
+export PULSE_SERVER=127.0.0.1
 
 [ -x /etc/vnc/xstartup ] && exec /etc/vnc/xstartup
 [ -r /root/.Xresources ] && xrdb /root/.Xresources
