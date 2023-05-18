@@ -83,6 +83,11 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 * Remove Kali-Linux
 > rm -rf kali-(arm64/armhf/amd64)
 
+</br>
+Note :</br>
+[sudo] password for kali:kali
+</br>
+
 ---
 Basic commands Kali-Linux
 > apt update : Update list package.</br>
@@ -91,11 +96,6 @@ Basic commands Kali-Linux
 > apt install (pkg) : Install package.</br>
 > apt autoremove (pkg) : Delete package.</br>
 > apt -h : Help all commands.
-
----
-Note :</br>
-[sudo] password for kali:kali
-</br>
 
 ---
 - [x] Soundfix [Click here](https://github.com/wahasa/nethunter/issues/5#issuecomment-1365605958)</br>
@@ -111,15 +111,18 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
-
-1. Start VNC Server
-
 on Termux, run this command to start :
+
+* Create New Password
+
+> nethunter kex passwd
+
+* Start VNC Server
 
 > nethunter kex &
 
 ---
-2. Open Vnc Viewer
+* Open Vnc Viewer
 
 Add (+) VNC Client to connect, fill with :
 
@@ -134,7 +137,7 @@ Name
 To disconnect VNC Client, click (X) on the right.
 
 ---
-3. Stop VNC Server
+* Stop VNC Server
 
 on Termux, run this command to stop :
 
