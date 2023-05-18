@@ -22,7 +22,7 @@ Copy and paste this command to Termux :
 > pkg install root-repo x11-repo
 
 ---
-<details></br><summary><b><code>Install Kali-Nethunter With Online</code></b></summary>
+<details></br><summary><b><code>Install Kali-Linux With Online</code></b></summary>
 on Termux, run this command :
 
 ```
@@ -41,9 +41,9 @@ Kali Full file size is 1.7 Gb, the extract time is 10-15 minutes and when it is 
 ---
 </details>
 
-<details></br><summary><b><code>Install kali-Nethunter With Offline</code></b></summary>
+<details></br><summary><b><code>Install kali-Linux With Offline</code></b></summary>
 
-* Install from sdcard
+* Install Kali-Full from sdcard
 
 - [x] [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D)
 
@@ -82,8 +82,17 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 
 * Remove Kali-Linux
 > rm -rf kali-(arm64/armhf/amd64)
-</br>
 
+---
+Basic commands Kali-Linux
+> apt update : Update list package.</br>
+> apt upgrade : Upgrade package.</br>
+> apt search (pkg) : Search package.</br>
+> apt install (pkg) : Install package.</br>
+> apt autoremove (pkg) : Delete package.</br>
+> apt -h : Help all commands.
+
+---
 Note :</br>
 [sudo] password for kali:kali
 </br>
