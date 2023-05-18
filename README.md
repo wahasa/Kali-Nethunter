@@ -9,19 +9,9 @@
 • Install Apps on Android
 - [x] [Termux](https://github.com/termux/termux-app/releases)
 - [x] [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
-- [x] [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D) (install from sdcard)
-
-Note :</br>
-Before downloading, run this command to termux :
-
-> uname -m
-
-* kalifs-armhf-full (Arm-v7/Arm-v6)
-* kalifs-arm64-full (Arm64/AArch64)
 
 ---
 Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-rootless)
-</br>
 
 ---
 ### Installation (Via Rootless)</br>
@@ -41,11 +31,30 @@ pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/m
 
 </br>
 Note :</br>
-The file size is 1.7 Gb, the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
-</details>
+
+* Kali Nano (Cli)
+* Kali Minimal (Cli + Pkg Kali)
+* Kali Full (Cli + Pkg Kali + Desktop)
+
+Kali Full file size is 1.7 Gb, the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
 
 ---
+</details>
+
 <details></br><summary><b><code>Install kali-Nethunter With Offline</code></b></summary>
+
+* Install from sdcard
+
+- [x] [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D)
+
+Note :</br>
+Before downloading, run this command to termux :
+
+> uname -m
+
+* kalifs-armhf-full (Arm-v7/Arm-v6)
+* kalifs-arm64-full (Arm64/AArch64)
+</br>
 on Termux, run this command :
 
 > termux-setup-storage
@@ -54,26 +63,25 @@ on Termux, run this command :
 
 > cp (Name file).tar.xz ~/
 
-> cd 
+> cd
 ```
 pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
 ```
 
-</br>
 Note :</br>
 If there are options (Y/N), select (N) all. the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
+
+---
 </details>
 
----
-3. Start Kali-Nethunter</br>
-
+* Start Kali-Linux
 > nethunter
 
----
-4. Stop Kali-Nethunter
-
+* Stop Kali-Linux
 > exit
 
+* Remove Kali-Linux
+> rm -rf kali-(arm64/armhf/amd64)
 </br>
 
 Note :</br>
