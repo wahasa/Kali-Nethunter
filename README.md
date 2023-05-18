@@ -26,7 +26,7 @@ Copy and paste this command to Termux :
 on Termux, run this command :
 
 ```
-pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/install.sh && chmod +x install.sh && ./install.sh
 ```
 
 </br>
@@ -65,7 +65,7 @@ on Termux, run this command :
 
 > cd
 ```
-pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/main/install-nethunter.sh && chmod +x install-nethunter.sh && ./install-nethunter.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Install/ kali-full.sh ; chmod +x kali-full.sh ; ./kali-full.sh
 ```
 
 Note :</br>
