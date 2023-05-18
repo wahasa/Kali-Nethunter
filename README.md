@@ -20,7 +20,8 @@ Before downloading, run this command to termux :
 * kalifs-arm64-full (Arm64/AArch64)
 
 ---
-Install Kali-Only [Click here](https://github.com/wahasa/kali-linux)
+Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-rootless)
+</br>
 
 ---
 ### Installation (Via Rootless)</br>
@@ -77,10 +78,6 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 
 Note :</br>
 [sudo] password for kali:kali
-</br>
-
----
-Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-rootless)
 </br>
 
 ---
