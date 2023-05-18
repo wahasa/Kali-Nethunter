@@ -6,7 +6,7 @@ case "$1" in
 	"")
 clear
 printf "${blu}Welcome To Kali Termux For Android\n"
-printf "${red}> ${wht}https://github.com/wahasa/Debian"
+printf "${red}> ${wht}https://github.com/wahasa/Kali-Nethunter"
 printf "\n\n"
 printf "${ylw}• Kali Nano (Cli)"
 printf "\n\n"
