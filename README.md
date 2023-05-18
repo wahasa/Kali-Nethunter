@@ -6,11 +6,6 @@
 ## Kali-Linux on Termux Android
 
 ---
-Announcement :
-
-For android 12 in [Termux v0.119.1](https://apkcombo.com/termux/com.termux/) fixed.
-
----
 • Install Apps on Android
 - [x] [Termux](https://github.com/termux/termux-app/releases)
 - [x] [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
@@ -21,8 +16,8 @@ Before downloading, run this command to termux :
 
 > uname -m
 
-* kalifs-armhf-full (armeabi-v7a/v6a)
-* kalifs-arm64-full (Arm64-v8a/AArch64)
+* kalifs-armhf-full (Arm-v7/Arm-v6)
+* kalifs-arm64-full (Arm64/AArch64)
 
 ---
 Install Kali-Only [Click here](https://github.com/wahasa/kali-linux)
@@ -36,7 +31,7 @@ Copy and paste this command to Termux :
 > pkg install root-repo x11-repo
 
 ---
-1. Install kali-Nethunter from termux</br>
+<details></br><summary><b><code>Install Kali-Nethunter With Online</code></b></summary>
 on Termux, run this command :
 
 ```
@@ -46,16 +41,17 @@ pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/m
 </br>
 Note :</br>
 The file size is 1.7 Gb, the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
+</details>
 
 ---
-2. [Install kali-Nethunter from Sdcard](https://youtu.be/ko5m-ghehKw)</br>
+<details></br><summary><b><code>Install kali-Nethunter With Offline</code></b></summary>
 on Termux, run this command :
 
 > termux-setup-storage
 
 > cd /sdcard/Download
 
-> cp (Nama file) ~/
+> cp (Name file).tar.xz ~/
 
 > cd 
 ```
@@ -65,6 +61,7 @@ pkg install wget -y && wget https://raw.githubusercontent.com/wahasa/nethunter/m
 </br>
 Note :</br>
 If there are options (Y/N), select (N) all. the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
+</details>
 
 ---
 3. Start Kali-Nethunter</br>
