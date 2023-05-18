@@ -409,3 +409,7 @@ printf "${green}[+] nethunter -r          # To run NetHunter as root${reset}\n"
 #printf "${green}[+] nethunter -r kex kill # To stop all NetHunter GUI sessions${reset}\n"
 #printf "${green}[+] nethunter -r kex <command> # Run command in NetHunter env as root${reset}\n"
 printf "${green}[+] nh                    # Shortcut for nethunter${reset}\n\n"
+
+#Sound Fix
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/soundfix.sh ; chmod +x soundfix.sh ; ./soundfix.sh
+rm kali-full.sh
