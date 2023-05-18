@@ -65,7 +65,7 @@ on Termux, run this command :
 
 > cd
 ```
-pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Install/ kali-full.sh ; chmod +x kali-full.sh ; ./kali-full.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Install/kali-full.sh ; chmod +x kali-full.sh ; ./kali-full.sh
 ```
 
 Note :</br>
