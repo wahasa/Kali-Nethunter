@@ -11,7 +11,7 @@
 - [x] [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
 
 ---
-Tutorial Official [Click here](https://www.kali.org/docs/nethunter/nethunter-rootless)
+Tutorial Official [Click here,.](https://www.kali.org/docs/nethunter/nethunter-rootless)
 
 ---
 ### Installation (Via Rootless)</br>
