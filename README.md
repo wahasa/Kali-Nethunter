@@ -98,6 +98,45 @@ Basic commands Kali-Linux
 > apt -h : Help all commands.
 
 ---
+## Desktop Environment
+<details></br><summary><b><code>Install Desktop</code></b></summary>
+
+Kali Nano & Kali Minimal
+</br>
+
+* Xfce Desktop
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
+```
+
+* Lxde Desktop
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxde.sh ; chmod +x de-lxde.sh ; ./de-lxde.sh
+```
+
+* Lxqt Desktop
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxqt.sh ; chmod +x de-lxqt.sh ; ./de-lxqt.sh
+```
+
+* Kde Desktop
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde.sh ; chmod +x de-kde.sh ; ./de-kde.sh
+```
+
+---
+</details>
+
+<details></br><summary><b><code>Swith Desktop</code></b></summary>
+
+Kali full Desktop
+
+* Swith to Kde
+* Swith to Gnome
+
+</details>
+
+---
 - [x] Soundfix [Click here](https://github.com/wahasa/nethunter/issues/5#issuecomment-1365605958)</br>
 - [x] Browserfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178448051)</br>
 - [x] Install Chromium [Click here](https://github.com/wahasa/nethunter/issues/5#issuecomment-1264203443)</br>
