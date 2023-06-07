@@ -1,10 +1,10 @@
 #!/bin/bash
 #Get the necessary components
 sudo apt update
-sudo apt install udisks2 -y
+sudo apt install dialog udisks2 -y
 echo " " > /var/lib/dpkg/info/udisks2.postinst
 sudo apt-mark hold udisks2
-sudo apt install sudo -y ; sudo dpkg-reconfigure tzdata
+sudo dpkg-reconfigure tzdata
 sudo apt install xfce4 xfce4-goodies xfce4-terminal parole -y
 sudo apt install tigervnc-standalone-server dbus-x11 -y
 sudo apt --fix-broken install
