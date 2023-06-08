@@ -75,13 +75,13 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 </details>
 
 * Start Kali-Linux
-> nethunter
+> kali
 
 * Stop Kali-Linux
 > exit
 
 * Remove Kali-Linux
-> rm -rf kali-(arm64/armhf/amd64)
+> rm -rf kali-*
 
 </br>
 Note :</br>
@@ -131,10 +131,16 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde
 
 </details>
 
----
-- [x] Soundfix [Click here](https://github.com/wahasa/nethunter/issues/5#issuecomment-1365605958)</br>
-- [x] Browserfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178448051)</br>
 </br>
+Note :</br>
+[sudo] password for kali:kali
+
+---
+Feature
+- [x] Fixed Sound
+- [x] Access to Sdcard
+- [x] Fixed Browser Crash Click here,.
+- [x] Install Applications Click here,.
 
 Visit problem now in : 
 [Issues](https://github.com/wahasa/nethunter/issues)
@@ -143,13 +149,9 @@ Visit problem now in :
 ## VNC Viewer
 on Termux, run this command to start :
 
-* Create New Password
-
-> nethunter kex passwd
-
 * Start VNC Server
 
-> nethunter kex &
+> vnc-start
 
 ---
 * Open Vnc Viewer
@@ -171,7 +173,7 @@ To disconnect VNC Client, click (X) on the right.
 
 on Termux, run this command to stop :
 
-> nethunter kex stop
+> vnc-stop
 
 </br>
 
