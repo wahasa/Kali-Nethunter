@@ -32,7 +32,7 @@ dbus-launch startplasma-x11" > /usr/local/bin/vncstart
    echo ""
 #Browser Fix
 wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Patch/passwd -P .vnc/
-apt install firefox-esr -y
+sudo apt install firefox-esr -y
 vnc-start
 sleep 5
 DISPLAY=:1 firefox &
