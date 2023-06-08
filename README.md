@@ -99,10 +99,7 @@ Basic commands Kali-Linux
 
 ---
 ## Desktop Environment
-<details></br><summary><b><code>Install Desktop</code></b></summary>
-
-Kali Nano & Kali Minimal
-</br>
+<details></br><summary><b><code>Install Desktop (Nano/Minimal)</code></b></summary>
 
 * Xfce Desktop
 ```
@@ -127,9 +124,7 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde
 ---
 </details>
 
-<details></br><summary><b><code>Swith Desktop</code></b></summary>
-
-Kali full Desktop
+<details></br><summary><b><code>Swith Desktop (Full Version)</code></b></summary>
 
 * Swith to Kde
 * Swith to Gnome
@@ -139,10 +134,6 @@ Kali full Desktop
 ---
 - [x] Soundfix [Click here](https://github.com/wahasa/nethunter/issues/5#issuecomment-1365605958)</br>
 - [x] Browserfix [Click here](https://github.com/wahasa/nethunter/issues/3#issuecomment-1178448051)</br>
-- [x] Install Chromium [Click here](https://github.com/wahasa/nethunter/issues/5#issuecomment-1264203443)</br>
-- [x] Install Libre Office [Click here](https://github.com/wahasa/nethunter/issues/5#issuecomment-1264203556)</br>
-- [x] Switch Desktop Environment [Click here](https://github.com/wahasa/nethunter/issues/4)
-
 </br>
 
 Visit problem now in : 
