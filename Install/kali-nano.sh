@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash -e
 
-VERSION=2020011601
+#VERSION=2020011601
 BASE_URL=https://kali.download/nethunter-images/current/rootfs
 USERNAME=kali
 
@@ -171,7 +171,17 @@ function extract_rootfs() {
 
 function create_launcher() {
     NH_LAUNCHER=${PREFIX}/bin/nethunter
+    KL_LAUNCHER=${PREFIX}/bin/kali
     NH_SHORTCUT=${PREFIX}/bin/nh
+
+    cat > $KL_LAUNCHER <<- EOF
+#!/bin/bash
+pulseaudio --start \
+    --load="module-native-protocol-tcp auth-ip-acl=127.0.0.1 auth-anonymous=1" \
+    --exit-idle-time=-1
+bash kali
+EOF
+
     cat > $NH_LAUNCHER <<- EOF
 #!/data/data/com.termux/files/usr/bin/bash -e
 cd \${HOME}
@@ -228,6 +238,7 @@ else
 fi
 EOF
 
+    chmod 700 $KL_LAUNCHER
     chmod 700 $NH_LAUNCHER
     if [ -L ${NH_SHORTCUT} ]; then
         rm -f ${NH_SHORTCUT}
@@ -409,7 +420,3 @@ printf "${green}[+] nethunter -r          # To run NetHunter as root${reset}\n"
 #printf "${green}[+] nethunter -r kex kill # To stop all NetHunter GUI sessions${reset}\n"
 #printf "${green}[+] nethunter -r kex <command> # Run command in NetHunter env as root${reset}\n"
 printf "${green}[+] nh                    # Shortcut for nethunter${reset}\n\n"
-
-#Sound Fix
-wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/soundfix.sh ; chmod +x soundfix.sh ; ./soundfix.sh
-rm kali-nano.sh
