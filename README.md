@@ -41,20 +41,18 @@ Kali Full file size is 1.7 Gb, the extract time is 10-15 minutes and when it is 
 ---
 </details>
 
-<details></br><summary><b><code>Install kali-Linux With Offline</code></b></summary>
+<details></br><summary><b><code>Install kali-Linux With Sdcard</code></b></summary>
 
-* Install Kali-Full from sdcard
-
-- [x] [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D)
-
-Note :</br>
 Before downloading, run this command to termux :
 
 > uname -m
 
 * kalifs-armhf-full (Arm-v7/Arm-v6)
 * kalifs-arm64-full (Arm64/AArch64)
-</br>
+
+- [x] [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D)
+
+---
 on Termux, run this command :
 
 > termux-setup-storage
@@ -147,7 +145,7 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
-on Termux, run this command to start :
+on Kali, run this command to start :
 
 * Start VNC Server
 
@@ -171,7 +169,7 @@ To disconnect VNC Client, click (X) on the right.
 ---
 * Stop VNC Server
 
-on Termux, run this command to stop :
+on kali, run this command to stop :
 
 > vnc-stop
 
