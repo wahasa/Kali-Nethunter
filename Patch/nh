@@ -1,4 +1,5 @@
 #!/bin/bash
-echo ""
-echo "You can now start Kali with 'kali' script next time"
-echo ""
+  echo ""
+  echo "You can now start Kali with 'kali' script next time"
+  echo ""
+rm nh
