@@ -3,7 +3,8 @@
 wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/kali -P ../usr/bin/
 
 #Xstartupfix
-wget -q -P kali-*/home/kali/.vnc/
+rm kali-*/home/kali/.vnc/xstartup
+wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/xstartup -P kali-*/home/kali/.vnc/
 
 chmod +x ../usr/bin/kali
 chmod +x kali-*/home/kali/.vnc/xstartup
