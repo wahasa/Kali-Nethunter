@@ -12,36 +12,35 @@ export PULSE_SERVER=127.0.0.1
 
 ############################
 ##          XFCE          ##
-exec startxfce4
+startxfce4
 
 ############################
 ##          LXDE          ##
-#exec startlxde
+#startlxde
 
 ############################
 ##          LXQT          ##
-#exec startlxqt
+#startlxqt
 
 ############################
 ##          KDE           ##
-#exec startplasma-x11
+#startplasma-x11
+
+############################
+##          UKUI          ##
+#ukui-session
 
 ############################
 ##        CINNAMON        ##
-#exec cinnamon-session
+#cinnamon-session
 
 ############################
 ##          MATE          ##
-#xsetroot -solid grey
-#x-window-manager &
 #export XKL_XMODMAP_DISABLE=1
-#exec mate-session
+#mate-session
 
 ###########################
 ##         GNOME         ##
-#xsetroot -solid grey
-#x-terminal-emulator -geometry 80x24+10+10 -ls -title "$VNCDESKTOP Desktop" &
-#x-window-manager &
 #export XKL_XMODMAP_DISABLE=1
 #export XDG_CURRENT_DESKTOP="GNOME-Flashback:GNOME"
 #export XDG_MENU_PREFIX="gnome-flashback"
@@ -50,7 +49,6 @@ exec startxfce4
 #gnome-panel &
 #budgie-panel &
 #gnome-flashback &
-#gnome-settings-daemon &
 
 ##          END           ##
 ############################
