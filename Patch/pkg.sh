@@ -1,6 +1,5 @@
 #!/bin/bash
 folder=~/kali-*/root
-  clear
   echo ""
   echo "Installing Packages,.."
   echo ""
@@ -12,27 +11,10 @@ chmod +x ../usr/bin/kali
 rm $folder/.vnc/xstartup
 wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/xstartup -P $folder/.vnc/
 chmod +x $folder/.vnc/xstartup
-
-#Browserfix
-wget -q https://raw.githubusercontent.com/wahasa/Ubuntu/main/Patch/passwd -P $folder/.vnc/
-
-echo "#!/bin/bash
-vnc-start
-sleep 5
-DISPLAY=:1 firefox &
-sleep 10
-pkill -f firefox
-vnc-stop
-sleep 2
-
-wget -O $(find ~/.mozilla/firefox -name *.default-esr)/user.js https://raw.githubusercontent.com/wahasa/Ubuntu/main/Patch/user.js
-
-rm -rf ~/.bash_profile
-rm .vnc/passwd" > $folder/.bash_profile
   clear
   echo "You can now start Kali with 'kali' script next time"
   echo ""
   echo "Start Vnc Server, run vnc-start"
   echo "Stop  Vnc Server, run vnc-stop"
   echo ""
-rm nh
+rm pkg
