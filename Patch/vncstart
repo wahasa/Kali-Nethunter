@@ -1,0 +1,5 @@
+#!/bin/sh
+export DISPLAY=:1
+export PULSE_SERVER=127.0.0.1
+rm -rf /run/dbus/dbus.pid
+dbus-launch startxfce4
