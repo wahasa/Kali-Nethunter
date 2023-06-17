@@ -39,6 +39,7 @@ wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Patch/user.js -P ~/kal
 mv ~/.bashrc ~/kali-$device/home/kali/
 rm ~/kali-$device/home/kali/.vnc/passwd
   clear
+  echo ""
   echo "You can now start Kali with 'kali' script next time"
   echo ""
   echo "Start Vnc Server, run vnc-start"
