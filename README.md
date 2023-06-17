@@ -125,6 +125,10 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde
 <details></br><summary><b><code>Swith Desktop (Full Version)</code></b></summary>
 
 * Swith to Kde
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-kde.sh ; chmod +x xfce-kde.sh ; ./xfce-kde.sh
+```
+
 * Swith to Gnome
 
 </details>
