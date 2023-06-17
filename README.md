@@ -141,8 +141,8 @@ Note :</br>
 Feature
 - [x] Fixed Sound
 - [x] Access to Sdcard
-- [x] Fixed Browser Crash Click here,.
-- [x] Install Applications Click here,.
+- [x] Fixed Browser Crash
+- [x] Install Applications [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
 
 Visit problem now in : 
 [Issues](https://github.com/wahasa/nethunter/issues)
