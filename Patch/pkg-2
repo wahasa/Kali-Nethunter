@@ -18,6 +18,7 @@ rm ~/kali-$device/home/kali/.vnc/xstartup
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/kali -P ../usr/bin/
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/xstartup -P ~/kali-*/home/kali/.vnc/
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/vnc-start -P ~/kali-$device/usr/local/bin/
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/vncstart -P ~/kali-$device/usr/local/bin/
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/vnc-stop -P ~/kali-$device/usr/local/bin/
 wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/Patch/passwd -P ~/kali-$device/home/kali/.vnc/
   chmod +x ../usr/bin/kali
