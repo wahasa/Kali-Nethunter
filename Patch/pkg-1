@@ -2,4 +2,5 @@
 wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/kali -P ../usr/bin/
   chmod +x ../usr/bin/kali
   echo "You can now start Kali with 'kali' script next time"
+  echo ""
 rm pkg-1
