@@ -48,7 +48,7 @@ rm .vnc/passwd
    clear
    echo ""
    echo "Vnc Server address will run at 127.0.0.1:5901"
+   echo ""
    echo "Start Vnc Server, run vnc-start"
    echo "Stop Vnc Server, run vnc-stop"
-   echo ""
 rm de-lxde.sh
