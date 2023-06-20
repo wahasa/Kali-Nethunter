@@ -45,4 +45,5 @@ rm ~/kali-$device/home/kali/.vnc/passwd
   echo ""
   echo "Start Vnc Server, run vnc-start"
   echo "Stop Vnc Server, run vnc-stop"
+  echo ""
 rm pkg-2
