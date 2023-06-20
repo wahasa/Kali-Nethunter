@@ -409,7 +409,6 @@ print_banner
 #printf "${green}[+] nethunter -r kex kill # To stop all NetHunter GUI sessions${reset}\n"
 #printf "${green}[+] nethunter -r kex <command> # Run command in NetHunter env as root${reset}\n"
 #printf "${green}[+] nh                    # Shortcut for nethunter${reset}\n\n"
-printf "You can now start Kali with 'kali' script next time\n\n"
 
 wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/pkg-1 ; chmod +x pkg-1 ; ./pkg-1
 
