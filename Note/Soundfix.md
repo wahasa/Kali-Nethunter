@@ -34,5 +34,3 @@ export PULSE_SERVER=127.0.0.1
 Example :
 
 Save : ctrl + x, click Y enter.
-
-[![Watch the video](https://img.youtube.com/vi/ko5m-ghehKw/maxresdefault.jpg)](https://youtu.be/ko5m-ghehKw?si=U73JKQMx3MVA-LmF)
