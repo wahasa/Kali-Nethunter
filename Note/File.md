@@ -1,1 +1,4 @@
-aku
+,,,
+nano ../usr/bin/nethunter
+,,,
+
