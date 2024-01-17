@@ -1,5 +1,7 @@
 ### Fixed Sound Kali-Nethunter
 Commands in Termux
+> pkg install nano -y
+
 * Edit script
 ```
 nano ../usr/bin/nethunter
@@ -15,8 +17,6 @@ Example :
 
 Save : ctrl + x, click Y enter.
 
-(Log in) Kali-Nethunter
-> nethunter
 
 Commands in kali
 > sudo apt install nano -y
@@ -30,6 +30,7 @@ nano .vnc/xstartup
 ```
 export PULSE_SERVER=127.0.0.1
 ```
+
 Example :
 
 Save : ctrl + x, click Y enter.
