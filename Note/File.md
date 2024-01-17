@@ -1,4 +1,3 @@
-,,,
+```
 nano ../usr/bin/nethunter
-,,,
-
+```
