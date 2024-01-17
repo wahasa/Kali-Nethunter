@@ -24,8 +24,8 @@ Copy and paste this command to Termux :
 ---
 <details></br><summary><b><code>Install Kali-Linux With Online</code></b></summary>
 on Termux, run this command :
-
-</br>
+</br></br>
+  
 > termux-setup-storage
 ```
 pkg install wget -y ; wget -O install-nethunter-termux https://offs.ec/2MceZWr ; chmod +x install-nethunter-termux ; ./install-nethunter-termux
@@ -38,7 +38,7 @@ Note :</br>
 * Kali Minimal (Cli + Pkg Kali)
 * Kali Full (Cli + Pkg Kali + Desktop)
 
-Kali Full file size is 1.7 Gb, the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
+Kali Full file size is < 2Gb, the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
 
 ---
 </details>
