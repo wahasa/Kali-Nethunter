@@ -12,6 +12,14 @@ pulseaudio --start \
 
 > nethunter
 
+Command termux
+```
+nano .vnc/xstartup
+```
+
+Add script
 ```
 export PULSE_SERVER=127.0.0.1
 ```
+
+example :
