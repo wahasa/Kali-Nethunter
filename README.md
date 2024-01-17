@@ -17,7 +17,7 @@ Tutorial Official [Click here,.](https://www.kali.org/docs/nethunter/nethunter-r
 ### Installation (Via Rootless)</br>
 Copy and paste this command to Termux :
 
-> pkg update && pkg upgrade
+> pkg update ; pkg upgrade
 
 > pkg install root-repo x11-repo
 
@@ -73,7 +73,7 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 </details>
 
 * Start Kali-Linux
-> kali
+> nethunter
 
 * Stop Kali-Linux
 > exit
@@ -153,7 +153,7 @@ on Kali, run this command to start :
 
 * Start VNC Server
 
-> vnc-start
+> kex
 
 ---
 * Open Vnc Viewer
@@ -175,7 +175,7 @@ To disconnect VNC Client, click (X) on the right.
 
 on kali, run this command to stop :
 
-> vnc-stop
+> kex stop
 
 </br>
 
