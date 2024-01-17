@@ -35,4 +35,4 @@ Example :
 
 Save : ctrl + x, click Y enter.
 
-[![Watch the video](https://img.youtube.com/vi/ko5m-ghehKw?si=U73JKQMx3MVA-LmF/hqdefault.jpg)](https://youtu.be/ko5m-ghehKw?si=U73JKQMx3MVA-LmF)
+[![Watch the video](https://img.youtube.com/vi/ko5m-ghehKw/maxresdefault.jpg)](https://youtu.be/ko5m-ghehKw?si=U73JKQMx3MVA-LmF)
