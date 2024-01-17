@@ -14,12 +14,12 @@ pulseaudio --start \
 
 Command in kali
 
-• Edit script
+* Edit script
 ```
 nano .vnc/xstartup
 ```
 
-• Add script
+* Add script
 ```
 export PULSE_SERVER=127.0.0.1
 ```
