@@ -24,8 +24,8 @@ Copy and paste this command to Termux :
 ---
 <details></br><summary><b><code>Install Kali-Linux With Online</code></b></summary>
 on Termux, run this command :
-
 > termux-setup-storage
+  
 ```
 pkg install wget -y ; wget -O install-nethunter-termux https://offs.ec/2MceZWr ; chmod +x install-nethunter-termux ; ./install-nethunter-termux
 ```
