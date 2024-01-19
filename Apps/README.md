@@ -1,6 +1,8 @@
 List Applications
 
-* Chromium
+<details>
+<summary><code><b>Chromium</b></code></summary>
+
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/chromiumfix.sh ; chmod +x chromiumfix.sh ; ./chromiumfix.sh
 ```
