@@ -12,6 +12,8 @@ List Applications
 <details>
 <summary><code><b>Libre Office</b></code></summary>
 
+![Screenshot_2024-01-19-12-19-03-463_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/7eecadc8-06bc-4587-a9a2-986346da6e72)
+
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/libreofficefix.sh ; chmod +x libreofficefix.sh ; ./libreofficefix.sh
 ```
@@ -29,6 +31,8 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/libreofficefix
 ###
 <details>
 <summary><code><b>VS Code</b></code></summary>
+
+![Screenshot_2024-01-19-11-58-48-380_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/27b096ab-8287-4f29-92a7-2aaaaab5f204)
 
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/vscodefix.sh ; chmod +x vscodefix.sh ; ./vscodefix.sh
