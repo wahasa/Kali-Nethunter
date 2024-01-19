@@ -2,10 +2,10 @@
 ![Screenshot_2024-01-19-08-26-52-107_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/3c1f5397-2e82-4cea-9764-8e27bcd7f6ef)
 
 Install firefox
-> sudo apt install firefox -y
+> sudo apt install firefox-esr -y
 
 Uninstall firefox
-> sudo apt autoremove firefox -y
+> sudo apt autoremove firefox-esr -y
 
 </br>
 Note :</br>
