@@ -17,7 +17,7 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/libreofficefix
 <details>
 <summary><code><b>Firefox</b></code></summary>
 
-[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Note/firefoxfix.md)
+[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Note/Firefoxfix.md)
 </details>
 
 <details>
