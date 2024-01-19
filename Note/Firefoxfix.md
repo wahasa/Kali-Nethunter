@@ -1,11 +1,23 @@
 ### Fixed firefox Kali-Nethunter
-![Screenshot_2022-09-27-08-26-13-818_com realvnc viewer android](https://user-images.githubusercontent.com/69626847/192417717-d465fb49-0f2c-4771-9ade-44a5249c05c2.png)
+![Screenshot_2024-01-19-08-26-52-107_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/3c1f5397-2e82-4cea-9764-8e27bcd7f6ef)
 
-Fixed firefox-esr crash
+Install firefox
+> sudo apt install firefox -y
+
+Uninstall firefox
+> sudo apt autoremove firefox -y
+
+</br>
+Note :</br>
+[sudo] password for kali:kali
+
+---
+Fixed firefox crash
 * Open Firefox, fill address with :
 ```
 about:config
 ```
+
 * Click Button :
 > Accept the Risk and Continue
 
@@ -23,3 +35,10 @@ security.sandbox.content.level
 Click edit on the right, change the number '4' to '0' and press again to save.
 
 * Close and open again Firefox.
+
+</br>
+
+---
+<p align="center">Good Luck</p>
+
+---
