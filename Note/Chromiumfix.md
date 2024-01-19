@@ -12,6 +12,14 @@ Note :</br>
 [sudo] password for kali:kali
 
 ---
+Commands in kali-linux
 ```
 sed -i 's/chromium %U/chromium --no-sandbox --test-type %U/g' /usr/share/applications/chromium.desktop
 ```
+
+</br>
+
+---
+<p align="center">Good Luck</p>
+
+---
