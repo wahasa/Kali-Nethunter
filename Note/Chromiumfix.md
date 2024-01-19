@@ -1,10 +1,10 @@
-### Fixed chromium Kali-Nethunter
-![Screenshot_2024-01-19-08-26-52-107_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/3c1f5397-2e82-4cea-9764-8e27bcd7f6ef)
+### Fixed Chromium Kali-Nethunter
+![Screenshot_2024-01-19-08-55-00-062_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/8e8206f1-fb6f-4b7b-b571-30c81182c8b5)
 
-Install chromium
+Install Chromium
 > sudo apt install chromium -y
 
-Uninstall chromium
+Uninstall Chromium
 > sudo apt autoremove chromium -y
 
 </br>
@@ -18,6 +18,7 @@ Fixed chromium can't be opened
 sed -i 's/chromium %U/chromium --no-sandbox --test-type %U/g' /usr/share/applications/chromium.desktop
 ```
 
+* You can open chromium now.
 </br>
 
 ---
