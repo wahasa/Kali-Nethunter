@@ -35,7 +35,6 @@ security.sandbox.content.level
 Click edit on the right, change the number '4' to '0' and press again to save.
 
 * Close and open again firefox.
-</br>
 
 ---
 <p align="center">Good Luck</p>
