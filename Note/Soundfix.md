@@ -26,6 +26,9 @@ Example :
 Commands in kali-linux
 > sudo apt install nano -y
 
+Note :</br>
+[sudo] password for kali:kali</br>
+
 * Edit script
 ```
 nano .vnc/xstartup
