@@ -19,7 +19,6 @@ sed -i 's/chromium %U/chromium --no-sandbox --test-type %U/g' /usr/share/applica
 ```
 
 * You can open chromium now.
-</br>
 
 ---
 <p align="center">Good Luck</p>
