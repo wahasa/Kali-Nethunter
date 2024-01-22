@@ -141,10 +141,10 @@ Note :</br>
 
 ---
 Feature
-- [x] Fixed Sound
-- [x] Access to Sdcard
-- [x] Fixed Browser Crash
-- [x] Install Applications [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
+- [x] Fixed Sound          | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Access to Sdcard     | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Fixed Browser Crash  | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Install Applications | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
 
 Visit problem now in : 
 [Issues](https://github.com/wahasa/nethunter/issues)
