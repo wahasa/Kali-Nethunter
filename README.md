@@ -68,6 +68,8 @@ on Termux, run this command :
 pkg install wget -y ; wget -O install-nethunter-termux https://offs.ec/2MceZWr ; chmod +x install-nethunter-termux ; ./install-nethunter-termux
 ```
 
+* Select number (1), enter.
+
 Note :</br>
 If there are options (Y/N), select (N) all. the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
 
