@@ -13,11 +13,11 @@ nano ../usr/bin/nethunter
 ```
 -b /sdcard \
 ```
+Save : ctrl + x, click Y enter.
 
 Example :
 
-Save : ctrl + x, click Y enter.
-</br>
+![Screenshot_2024-01-22-06-22-22-623_com termux](https://github.com/wahasa/Kali-Nethunter/assets/69626847/32f4a2ca-024f-4969-870b-354652c4efd2)
 
 ---
 <p align="center">Good Luck</p>
