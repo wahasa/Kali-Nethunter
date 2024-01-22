@@ -13,11 +13,11 @@ nano ../usr/bin/nethunter
 ```
 --kill-on-exit \
 ```
+Save : ctrl + x, click Y enter.
 
 Example :
 
-Save : ctrl + x, click Y enter.
-</br>
+![Screenshot_2024-01-22-06-22-22-623_com termux](https://github.com/wahasa/Kali-Nethunter/assets/69626847/64250e99-02cf-43ad-a151-76ff0b133033)
 
 ---
 <p align="center">Good Luck</p>
