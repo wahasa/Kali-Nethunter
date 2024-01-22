@@ -11,7 +11,13 @@ nano ../usr/bin/nethunter
 ```
 -b /data/data/com.termux/files/usr/tmp:/tmp \
 ```
+Save : ctrl + x, click Y enter.
 
 Example :
 
-Save : ctrl + x, click Y enter.
+![Screenshot_2024-01-22-06-22-22-623_com termux (1)](https://github.com/wahasa/Kali-Nethunter/assets/69626847/df77f931-29b4-460f-8eb9-6cc7b262e502)
+
+---
+<p align="center">Good Luck</p>
+
+---
