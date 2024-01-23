@@ -41,6 +41,17 @@ sudo apt install gdebi
 
 ###
 <details>
+<summary><code><b>Gedit</b></code></summary>
+
+![Screenshot_2024-01-23-14-18-50-697_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/1328c6cb-a7dd-4fae-a853-643774293818)
+
+```
+sudo apt install gedit
+```
+</details>
+
+###
+<details>
 <summary><code><b>Libre Office</b></code></summary>
 
 ![Screenshot_2024-01-19-12-19-03-463_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/7eecadc8-06bc-4587-a9a2-986346da6e72)
