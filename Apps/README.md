@@ -63,6 +63,17 @@ sudo apt install gimp
 
 ###
 <details>
+<summary><code><b>Inkscape</b></code></summary>
+
+![Screenshot_2024-01-23-14-45-01-249_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/70f8ffa0-cd2f-4a51-9c4d-ffc6c9756418)
+
+```
+sudo apt install inkscape
+```
+</details>
+
+###
+<details>
 <summary><code><b>Libre Office</b></code></summary>
 
 ![Screenshot_2024-01-19-12-19-03-463_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/7eecadc8-06bc-4587-a9a2-986346da6e72)
