@@ -158,8 +158,9 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
-on Kali, run this command to start :
+<details></br><summary><b><code>Swith Desktop (Full Version)</code></b></summary>
 
+on Kali, run this command to start :
 * Start VNC Server
 
 > kex
@@ -185,8 +186,7 @@ To disconnect VNC Client, click (X) on the right.
 on kali, run this command to stop :
 
 > kex stop
-
-</br>
+</details></br>
 
 ---
 <p align="center">Good Luck</p>
