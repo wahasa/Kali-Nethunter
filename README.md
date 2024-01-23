@@ -191,8 +191,8 @@ on kali, run this command to stop :
 <details></br><summary><b><code>Install Desktop (Nano/Minimal)</code></b></summary>
 
 </details>
-
 </br>
+
 ---
 <p align="center">Good Luck</p>
 
