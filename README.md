@@ -77,7 +77,7 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 </details>
 
 </br>
-Note :</br>
+Note : v2023.4</br>
 
 Problem update and upgrade [Click here,.](https://github.com/wahasa/Kali-Nethunter/issues/7#issuecomment-1905351583)
 
@@ -188,6 +188,11 @@ on kali, run this command to stop :
 > kex stop
 </details></br>
 
+<details></br><summary><b><code>Install Desktop (Nano/Minimal)</code></b></summary>
+
+</details>
+
+</br>
 ---
 <p align="center">Good Luck</p>
 
