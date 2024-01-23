@@ -19,6 +19,17 @@ List Applications
 
 ###
 <details>
+<summary><code><b>Game Classic</b></code></summary>
+
+![Screenshot_2024-01-23-14-04-35-038_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/3ab590f9-c4c1-4a17-b33c-8865b655df38)
+
+```
+sudo apt install gnome-games
+```
+</details>
+
+###
+<details>
 <summary><code><b>Libre Office</b></code></summary>
 
 ![Screenshot_2024-01-19-12-19-03-463_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/7eecadc8-06bc-4587-a9a2-986346da6e72)
