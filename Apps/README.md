@@ -30,6 +30,17 @@ sudo apt install gnome-games
 
 ###
 <details>
+<summary><code><b>Gdebi</b></code></summary>
+
+![Screenshot_2024-01-23-14-14-05-342_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/b38d5456-4196-45fc-9ec3-ac4d4d1a5adb)
+
+```
+sudo apt install gdebi
+```
+</details>
+
+###
+<details>
 <summary><code><b>Libre Office</b></code></summary>
 
 ![Screenshot_2024-01-19-12-19-03-463_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/7eecadc8-06bc-4587-a9a2-986346da6e72)
