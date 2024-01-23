@@ -25,8 +25,7 @@ Copy and paste this command to Termux :
 <details></br><summary><b><code>Install Kali-Linux With Online</code></b></summary>
 on Termux, run this command :
 </br></br>
-  
-> termux-setup-storage
+
 ```
 pkg install wget -y ; wget -O install-nethunter-termux https://offs.ec/2MceZWr ; chmod +x install-nethunter-termux ; ./install-nethunter-termux
 ```
@@ -158,6 +157,10 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
+<details></br><summary><b><code>Kali Desktop (Nano/Minimal)</code></b></summary>
+
+</details>
+
 <details></br><summary><b><code>Kali Desktop (Full Version)</code></b></summary>
 
 on Kali, run this command to start :
@@ -186,10 +189,6 @@ To disconnect VNC Client, click (X) on the right.
 on kali, run this command to stop :
 
 > kex stop
-</details>
-
-<details></br><summary><b><code>Kali Desktop (Nano/Minimal)</code></b></summary>
-
 </details>
 </br>
 
