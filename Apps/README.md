@@ -41,6 +41,17 @@ sudo apt install gdebi
 
 ###
 <details>
+<summary><code><b>GIMP</b></code></summary>
+
+![Screenshot_2024-01-23-14-24-11-310_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/981ef170-23c4-48da-8cb1-c843d30f9db4)
+
+```
+sudo apt install gimp
+```
+</details>
+
+###
+<details>
 <summary><code><b>Gedit</b></code></summary>
 
 ![Screenshot_2024-01-23-14-18-50-697_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/1328c6cb-a7dd-4fae-a853-643774293818)
