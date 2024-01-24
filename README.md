@@ -159,6 +159,32 @@ Visit problem now in :
 ## VNC Viewer
 <details></br><summary><b><code>Kali Desktop (Nano/Minimal)</code></b></summary>
 
+on Kali, run this command to start :
+* Start VNC Server
+
+> vnc-start
+
+---
+* Open Vnc Viewer
+
+Add (+) VNC Client to connect, fill with :
+
+Address
+
+> localhost:1 
+
+Name
+
+> Kali-Nethunter
+
+To disconnect VNC Client, click (X) on the right.
+
+---
+* Stop VNC Server
+
+on kali, run this command to stop :
+
+> vnc-stop
 </details>
 
 <details></br><summary><b><code>Kali Desktop (Full Version)</code></b></summary>
