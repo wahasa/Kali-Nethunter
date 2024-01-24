@@ -131,6 +131,8 @@ sudo apt install obs-studio
 <details>
 <summary><code><b>Thunderbird</b></code></summary>
 
+![Screenshot_2024-01-24-11-37-31-224_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/31a243f6-57db-48bc-8d54-e3ef79ab9953)
+
 ```
 sudo apt install thunderbird
 ```
@@ -157,5 +159,9 @@ sudo apt install vim
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/vscodefix.sh ; chmod +x vscodefix.sh ; ./vscodefix.sh
 ```
 </details>
+</br>
 
-###
+---
+<p align="center">Good Luck</p>
+
+---
