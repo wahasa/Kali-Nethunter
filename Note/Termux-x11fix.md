@@ -48,6 +48,8 @@ startxfce4
 
 ```
 chmod +x /usr/local/bin/termux-x11
+```
+
 ---
 <p align="center">Good Luck</p>
 
