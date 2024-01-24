@@ -74,12 +74,66 @@ sudo apt install inkscape
 
 ###
 <details>
+<summary><code><b>Kdenlive</b></code></summary>
+
+```
+sudo apt install kdenlive
+```
+</details>
+
+###
+<details>
+<summary><code><b>Krita</b></code></summary>
+
+```
+sudo apt install krita
+```
+</details>
+
+###
+<details>
 <summary><code><b>Libre Office</b></code></summary>
 
 ![Screenshot_2024-01-19-12-19-03-463_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/7eecadc8-06bc-4587-a9a2-986346da6e72)
 
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/libreofficefix.sh ; chmod +x libreofficefix.sh ; ./libreofficefix.sh
+```
+</details>
+
+###
+<details>
+<summary><code><b>Lollypop</b></code></summary>
+
+```
+sudo apt install lollypop
+```
+</details>
+
+###
+<details>
+<summary><code><b>OBS Studio</b></code></summary>
+
+```
+sudo apt install obs-studio
+```
+</details>
+
+###
+<details>
+<summary><code><b>Thunderbird</b></code></summary>
+
+```
+sudo apt install thunderbird
+```
+</details>
+
+###
+<details>
+<summary><code><b>Vim</b></code></summary>
+
+```
+sudo apt install vim
 ```
 </details>
 
