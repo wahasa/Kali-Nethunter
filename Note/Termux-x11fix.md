@@ -35,6 +35,19 @@ Example :
 
 ![Screenshot_2024-01-22-07-33-37-878_com termux](https://github.com/wahasa/Kali-Nethunter/assets/69626847/4dc5b01f-ea37-4b86-80c4-e8709734ea73)
 
+```
+nano /usr/local/bin/termux-x11
+```
+
+```
+#!/bin/sh
+export DISPLAY=:1
+export PULSE_SERVER=127.0.0.1
+startxfce4
+```
+
+```
+chmod +x /usr/local/bin/termux-x11
 ---
 <p align="center">Good Luck</p>
 
