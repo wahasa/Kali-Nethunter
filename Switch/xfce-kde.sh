@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo apt update
-sudo apt install kali-desktop-kde -y
+sudo apt install dialog kali-desktop-kde -y
 
 echo "#!/bin/bash
 export PULSE_SERVER=127.0.0.1
@@ -22,5 +22,5 @@ chmod +x /usr/local/bin/*
    echo "Vnc Server address will run at 127.0.0.1:5901"
    echo ""
    echo "Start Vnc Server, run vnc-start"
-   echo "Stop Vnc Server, run vnc-stop"
+   echo "Stop  Vnc Server, run vnc-stop"
 rm xfce-kde.sh
