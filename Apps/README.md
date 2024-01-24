@@ -76,6 +76,8 @@ sudo apt install inkscape
 <details>
 <summary><code><b>Kdenlive</b></code></summary>
 
+![Screenshot_2024-01-24-11-27-23-244_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/9e530191-3cb4-4ae6-b5bf-7505bf8992fc)
+
 ```
 sudo apt install kdenlive
 ```
