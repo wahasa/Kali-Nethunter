@@ -105,6 +105,8 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/libreofficefix
 <details>
 <summary><code><b>Lollypop</b></code></summary>
 
+![Screenshot_2024-01-24-07-54-55-785_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/9aacd2d7-1a36-484e-9f5c-fe7e626ef5b2)
+
 ```
 sudo apt install lollypop
 ```
@@ -113,6 +115,8 @@ sudo apt install lollypop
 ###
 <details>
 <summary><code><b>OBS Studio</b></code></summary>
+
+![Screenshot_2024-01-24-07-58-29-384_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/b4f8d39a-15de-4899-9fcc-12d372789924)
 
 ```
 sudo apt install obs-studio
@@ -131,6 +135,8 @@ sudo apt install thunderbird
 ###
 <details>
 <summary><code><b>Vim</b></code></summary>
+
+![Screenshot_2024-01-24-07-53-15-619_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/71d3b372-ea8e-4898-b3fc-a8fba4e1df5d)
 
 ```
 sudo apt install vim
