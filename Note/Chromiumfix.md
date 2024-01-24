@@ -20,12 +20,14 @@ sed -i 's/chromium %U/chromium --no-sandbox --test-type %U/g' /usr/share/applica
 
 * You can open chromium now.
 
+---
 How to change search engine
 * Click the three dots on the right
 * Select settings
 * Click search engine on the left
 * Select manage search engines & site
 * Click Add (search engine)
+
 Add search engine
 > Search engine
 ```
@@ -42,6 +44,12 @@ Google.com
 https://google.com/search?q=%s
 ```
 
+* Search saved search engines
+* Click the three dots
+* Slect Make default
+* Close Chromium and open again
+
+---
 <p align="center">Good Luck</p>
 
 ---
