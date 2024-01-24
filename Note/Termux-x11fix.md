@@ -35,10 +35,19 @@ Example :
 
 ![Screenshot_2024-01-22-07-33-37-878_com termux](https://github.com/wahasa/Kali-Nethunter/assets/69626847/4dc5b01f-ea37-4b86-80c4-e8709734ea73)
 
+---
+Note :</br>
+Add new session drag from top left to right in termux.
+
+Commands in Kali-linux
+> sudo apt install nano -y
+
+* Edit script
 ```
 nano /usr/local/bin/termux-x11
 ```
 
+* Add script
 ```
 #!/bin/sh
 export DISPLAY=:1
@@ -46,9 +55,36 @@ export PULSE_SERVER=127.0.0.1
 startxfce4
 ```
 
+* Enable script
 ```
 chmod +x /usr/local/bin/termux-x11
 ```
+
+---
+Command runs termux-x11
+
+Start termux-x11
+* In session 1(termux), run
+```
+termux-x11 :1
+```
+
+* In session 2 (kali-linux), run
+```
+termux-x11
+```
+* Open app termux-x11
+
+</br>
+Stop termux-x11
+
+* Close app termux-x11
+
+* In session 2 (kali-linux), run
+> Click Ctrl+c, enter (2X)
+
+* In session 1 (termux), run
+> Click Ctrl+c, enter
 
 ---
 <p align="center">Good Luck</p>
