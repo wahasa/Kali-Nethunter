@@ -87,6 +87,8 @@ sudo apt install kdenlive
 <details>
 <summary><code><b>Krita</b></code></summary>
 
+![Screenshot_2024-01-24-11-33-35-915_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/f5173d78-9d89-4bf5-848d-318f62c7519d)
+
 ```
 sudo apt install krita
 ```
