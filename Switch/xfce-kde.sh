@@ -1,5 +1,6 @@
 #!/bin/bash
 sudo apt update
+sudo dpkg-reconfigure tzdata
 sudo apt install dialog kali-desktop-kde -y
 
 echo "#!/bin/bash
