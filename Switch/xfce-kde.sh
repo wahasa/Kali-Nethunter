@@ -3,10 +3,8 @@ sudo apt update
 sudo dpkg-reconfigure tzdata
 sudo apt install dialog kali-desktop-kde -y
 
-echo "#!/bin/bash
-export PULSE_SERVER=127.0.0.1
-xrdb $HOME/.Xresources
-startplasma-x11" > ~/.vnc/xstartup
+rm -rf ~/.vnc/xstartup
+wget -q https://raw.githubusercontent.com/wahasa/nethunter/main/Patch/xstartup -P ~/.vnc/
 
 echo "#!/bin/sh
 export DISPLAY=:1
