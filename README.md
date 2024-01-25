@@ -146,8 +146,8 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-lx
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-kde.sh ; chmod +x xfce-kde.sh ; ./xfce-kde.sh
 ```
-</br>
 
+---
 After switching run the command :
 ```
 nano .vnc/xstartup
