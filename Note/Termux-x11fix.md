@@ -36,8 +36,8 @@ Example :
 ![Screenshot_2024-01-22-07-33-37-878_com termux](https://github.com/wahasa/Kali-Nethunter/assets/69626847/4dc5b01f-ea37-4b86-80c4-e8709734ea73)
 
 ---
-Note :</br>
-Add new session drag from top left to right in termux.
+Add new session :</br>
+Swipe the screen from left to right in termux, click 'New Session'.
 
 Commands in Kali-linux
 > sudo apt install nano -y
