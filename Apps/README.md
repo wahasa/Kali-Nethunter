@@ -1,6 +1,15 @@
 List Applications
 ###
 <details>
+<summary><code><b>Blender</b></code></summary>
+
+```
+sudo apt install blender
+```
+</details>
+
+###
+<details>
 <summary><code><b>Chromium</b></code></summary>
 
 ![Screenshot_2024-01-19-08-55-00-062_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/8e8206f1-fb6f-4b7b-b571-30c81182c8b5)
