@@ -2,7 +2,7 @@
 ![Screenshot_2024-01-22-07-52-44-111_com termux x11](https://github.com/wahasa/Kali-Nethunter/assets/69626847/09d2bb8c-395a-447e-b80e-853d5cdfc696)
 
 Commands in Termux
-> pkg install nano -y
+> pkg install termux-x11-nightly nano -y
 
 * Edit script
 ```
