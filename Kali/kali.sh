@@ -59,12 +59,19 @@ if [ -n "\$(ls -A $folder/binds)" ]; then
     done
 fi
 command+=" -b /dev"
+command+=" -b /dev/null:/proc/sys/kernel/cap_last_cap"
 command+=" -b /proc"
+command+=" -b /dev/null:/proc/stat"
+command+=" -b /sys"
+command+=" -b /data/data/com.termux/files/usr/tmp:/tmp"
 command+=" -b $folder/root:/dev/shm"
 ## uncomment the following line to have access to the home directory of termux
 #command+=" -b /data/data/com.termux/files/home:/root"
 ## uncomment the following line to mount /sdcard directly to /
+command+=" -b /data/data/com.termux"
 command+=" -b /sdcard"
+command+=" -b /storage"
+command+=" -b /mnt"
 command+=" -w /root"
 command+=" /usr/bin/env -i"
 command+=" HOME=/root"
