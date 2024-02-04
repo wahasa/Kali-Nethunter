@@ -49,8 +49,8 @@ Before downloading, run this command to termux :
 > uname -m
 
 Architecture
-* kalifs-armhf (Arm-v7/v6)
-* kalifs-arm64 (Arm64/Aarch64)
+* kalifs-armhf (Arm-v7)
+* kalifs-arm64 (Aarch64)
 * kalifs-i386  (X86)
 * kalifs-amd64 (X86_64)
 
