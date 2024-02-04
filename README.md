@@ -48,10 +48,18 @@ Before downloading, run this command to termux :
 
 > uname -m
 
-* kalifs-armhf-full (Arm-v7/Arm-v6)
-* kalifs-arm64-full (Arm64/AArch64)
+Architecture
+* kalifs-armhf (Arm-v7/v6)
+* kalifs-arm64 (Arm64/Aarch64)
+* kalifs-i386  (X86)
+* kalifs-amd64 (X86_64)
 
 - [x] [Link Download](http://kali.download/nethunter-images/current/rootfs/?C=S&O=D)
+
+Kali Version
+* Kali Nano (Cli)
+* Kali Minimal (Cli + Pkg Kali)
+* Kali Full (Cli + Pkg Kali + Desktop)
 
 ---
 on Termux, run this command :
