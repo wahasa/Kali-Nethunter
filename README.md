@@ -210,6 +210,8 @@ To disconnect VNC Client, click (X) on the right.
 on kali, run this command to stop :
 
 > vnc-stop
+
+---
 </details>
 
 <details></br><summary><b><code>Kali Desktop (Full Version)</code></b></summary>
