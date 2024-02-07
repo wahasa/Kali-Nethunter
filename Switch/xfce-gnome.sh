@@ -13,3 +13,6 @@ echo "vncserver -kill :*" > /usr/local/bin/vnc-stop
 chmod +x ~/.vnc/xstartup
 chmod +x /usr/local/bin/*
    clear
+   echo ""
+   echo "Installing Extra Packages,.."
+   echo ""
