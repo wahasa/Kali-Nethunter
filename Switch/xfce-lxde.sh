@@ -5,7 +5,7 @@ sudo apt install dialog kali-desktop-lxde -y
 mv /usr/bin/lxpolkit /usr/bin/lxpolkit.bak
 rm -rf ~/.vnc/xstartup
 
-wget -q https://raw.githubusercontent.com/wahasa/nethunter/main/Patch/xstartup -P ~/.vnc/
+wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/xstartup -P ~/.vnc/
 
 echo "#!/bin/sh
 export DISPLAY=:1
