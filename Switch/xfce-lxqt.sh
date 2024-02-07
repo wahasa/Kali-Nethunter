@@ -4,7 +4,7 @@ sudo dpkg-reconfigure tzdata
 sudo apt install dialog lxqt -y
 rm -rf ~/.vnc/xstartup
 
-wget -q https://raw.githubusercontent.com/wahasa/nethunter/main/Patch/xstartup -P ~/.vnc/
+wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/xstartup -P ~/.vnc/
 
 echo "#!/bin/sh
 export DISPLAY=:1
