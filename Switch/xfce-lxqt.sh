@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo apt update
 sudo dpkg-reconfigure tzdata
-sudo apt install dialog lxqt -y
+sudo apt install dialog lxqt qterminal -y
 rm -rf ~/.vnc/xstartup
 
 wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/xstartup -P ~/.vnc/
