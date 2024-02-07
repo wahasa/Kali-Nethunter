@@ -3,5 +3,9 @@
 <p align="center">(Gnome Flashback)</p>
 
 ```
-wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; ; chmod +x tigervnc ; ./tigervnc
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; chmod +x tigervnc ; ./tigervnc
+```
+
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/ xfce-gnome.sh ; chmod +x xfce-gnome.sh ; ./xfce-gnome.sh
 ```
