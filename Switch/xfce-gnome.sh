@@ -32,3 +32,27 @@ wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher
 wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/rofi-launcher.desktop -P /usr/share/applications/
 wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/plank-preferences.desktop -P /usr/share/applications/
 
+mkdir -p ~/.config/plank/dock1
+mkdir -p ~/.config/plank/dock1/launchers
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/firefox-esr.dockitem -P ~/.config/plank/dock1/launchers/
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/rofi-launcher.dockitem -P ~/.config/plank/dock1/launchers/
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/org.gnome.gedit.dockitem -P ~/.config/plank/dock1/launchers/
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/plank-preferences.dockitem -P ~/.config/plank/dock1/launchers/
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/org.gnome.Nautilus.dockitem -P ~/.config/plank/dock1/launchers/
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/org.gnome.Terminal.dockitem -P ~/.config/plank/dock1/launchers/
+
+#theme
+mkdir -p ~/.local/share/plank/themes
+mkdir -p ~/.local/share/plank/themes/Azeny
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/theme/dock.theme -P ~/.local/share/plank/themes/Azeny/
+   clear
+   echo ""
+   echo "In Termux"
+   echo "Start Vnc Server, run vncstart"
+   echo "Stop  Vnc Server, run vncstop"
+   echo ""
+   echo "In Linux"
+   echo "Start Vnc, run vncstart"
+   echo "Exit  Vnc, run ctrl+c"
+   echo ""
+#rm xfce-gnome.sh
