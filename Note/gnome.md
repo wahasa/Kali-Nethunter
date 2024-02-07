@@ -7,5 +7,5 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc
 ```
 
 ```
-wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/ xfce-gnome.sh ; chmod +x xfce-gnome.sh ; ./xfce-gnome.sh
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-gnome.sh ; chmod +x xfce-gnome.sh ; ./xfce-gnome.sh
 ```
