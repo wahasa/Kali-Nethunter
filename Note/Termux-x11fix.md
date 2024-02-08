@@ -68,28 +68,28 @@ chmod +x /usr/local/bin/termux-x11
 
 ---
 ## Termux-x11
+* Start termux-x11
 
-Start termux-x11
-* In session 1(termux), run
+In session 1(termux), run
 ```
 termux-x11 :1
 ```
 
-* In session 2 (kali-linux), run
+In session 2 (kali-linux), run
 ```
 termux-x11
 ```
-* Open app termux-x11
+Open app termux-x11
 
-</br>
-Stop termux-x11
+---
+* Stop termux-x11
 
-* Close app termux-x11
+Close app termux-x11
 
-* In session 2 (kali-linux), run
+In session 2 (kali-linux), run
 > Click Ctrl+c, enter (2X)
 
-* In session 1 (termux), run
+In session 1 (termux), run
 > Click Ctrl+c, enter
 </br>
 
