@@ -14,6 +14,7 @@ export XDG_MENU_PREFIX="gnome-flashback-"
 
 [ -x /etc/vnc/xstartup ] && exec /etc/vnc/xstartup
 [ -r $HOME/.Xresources ] && xrdb $HOME/.Xresources
+
 #dbus-launch --exit-with-session gnome-session --debug &
 #dbus-launch --exit-with-session gnome-session --builtin --session=gnome-flashback-metacity --disable-acceleration-check --debug &
 #gnome-session --builtin --session=gnome-flashback-metacity --disable-acceleration-check --debug &
@@ -24,3 +25,4 @@ plank &
 metacity &
 gnome-panel &
 gnome-flashback &
+#budgie-panel &
