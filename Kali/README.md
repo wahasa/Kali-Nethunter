@@ -44,3 +44,33 @@ Basic commands Kali-Linux
 
 ---
 ## Desktop Environment
+
+* Xfce Desktop
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
+```
+
+* Lxde Desktop
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxde.sh ; chmod +x de-lxde.sh ; ./de-lxde.sh
+```
+
+* Lxqt Desktop
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxqt.sh ; chmod +x de-lxqt.sh ; ./de-lxqt.sh
+```
+
+* Kde Desktop
+```
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde.sh ; chmod +x de-kde.sh ; ./de-kde.sh
+```
+
+Feature
+- [x] Fixed Sound
+- [x] Access to Sdcard
+- [x] Access to Termux-x11
+- [x] Fixed Browser Crash
+- [x] Install Applications [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
+
+Visit problem now in : 
+[Issues](https://github.com/wahasa/nethunter/issues)
