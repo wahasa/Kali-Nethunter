@@ -5,6 +5,7 @@
 
 ---
 #### Commands in Termux
+
 * Install pkg
 ```
 pkg install termux-x11-nightly nano -y
@@ -19,6 +20,7 @@ nano ../usr/bin/nethunter
 ```
 -b /data/data/com.termux/files/usr/tmp:/tmp \
 ```
+
 Save : ctrl + x, click Y enter.
 
 Example :
@@ -70,26 +72,28 @@ chmod +x /usr/local/bin/termux-x11
 ## Termux-x11
 * Start termux-x11
 
-In session 1(termux), run
+In session 1(termux), run this command
 ```
 termux-x11 :1
 ```
 
-In session 2 (kali-linux), run
+In session 2 (kali), run this command
 ```
 termux-x11
 ```
+
 Open app termux-x11
+</br></br>
 
 ---
 * Stop termux-x11
 
 Close app termux-x11
 
-In session 2 (kali-linux), run
+In session 2 (kali), run this command
 > Click Ctrl+c, enter (2X)
 
-In session 1 (termux), run
+In session 1 (termux), run this command
 > Click Ctrl+c, enter
 </br>
 
