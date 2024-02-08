@@ -5,16 +5,25 @@
 ---
 #### Switch Xfce to Gnome Desktop
 * Commands in Termux
+> pkg update ; pkg upgrade
+
+Install Tigervnc
+
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; chmod +x tigervnc ; ./tigervnc
 ```
 
 ---
 * Commands in Linux
+> apt update ; sudo apt upgrade
+
+Switch Gnome
+
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-gnome.sh ; chmod +x xfce-gnome.sh ; ./xfce-gnome.sh
 ```
 
+</br>
 Note :</br>
 [sudo] password for kali:kali
 
@@ -31,7 +40,7 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
-Add new session :<br/>
+Add new session :</br>
 Swipe the screen from left to right in termux, click 'New Session'.
 
 ---
@@ -69,7 +78,7 @@ On Session 2 (Kali), run this command :
 On Session 1 (Termux), run this command :
 
 > vncstop
-<br/>
+</br>
 
 ---
 <p align="center">Good Luck</p>
