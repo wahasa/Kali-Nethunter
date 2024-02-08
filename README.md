@@ -195,11 +195,9 @@ on Kali, run this command to start :
 Add (+) VNC Client to connect, fill with :
 
 Address
-
 > localhost:1 
 
 Name
-
 > Kali-Nethunter
 
 To disconnect VNC Client, click (X) on the right.
@@ -208,7 +206,6 @@ To disconnect VNC Client, click (X) on the right.
 * Stop VNC Server
 
 on kali, run this command to stop :
-
 > vnc-stop
 
 ---
@@ -227,11 +224,9 @@ on Kali, run this command to start :
 Add (+) VNC Client to connect, fill with :
 
 Address
-
 > localhost:1 
 
 Name
-
 > Kali-Nethunter
 
 To disconnect VNC Client, click (X) on the right.
@@ -240,7 +235,6 @@ To disconnect VNC Client, click (X) on the right.
 * Stop VNC Server
 
 on kali, run this command to stop :
-
 > kex stop
 </details>
 
