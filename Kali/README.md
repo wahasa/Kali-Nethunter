@@ -18,6 +18,7 @@ Copy and paste this command to Termux
 
 > pkg install root-repo x11-repo
 
+---
 * Install Kali-Linux
 ```
 wget
