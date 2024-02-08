@@ -1,7 +1,10 @@
 ### Termux-x11 Kali-Nethunter
-![Screenshot_2024-01-22-07-52-44-111_com termux x11](https://github.com/wahasa/Kali-Nethunter/assets/69626847/09d2bb8c-395a-447e-b80e-853d5cdfc696)
 
-Commands in Termux
+![Screenshot_2024-01-22-07-52-44-111_com termux x11](https://github.com/wahasa/Kali-Nethunter/assets/69626847/09d2bb8c-395a-447e-b80e-853d5cdfc696)
+<p align="center">Termux-x11</p>
+
+---
+#### Commands in Termux
 * Install pkg
 ```
 pkg install termux-x11-nightly nano -y
@@ -42,7 +45,7 @@ Example :
 Add new session :</br>
 Swipe the screen from left to right in termux, click 'New Session'.
 
-Commands in Kali-linux
+#### Commands in Kali-linux
 > sudo apt install nano -y
 
 * Edit script
@@ -64,7 +67,7 @@ chmod +x /usr/local/bin/termux-x11
 ```
 
 ---
-Command runs termux-x11
+## Termux-x11
 
 Start termux-x11
 * In session 1(termux), run
@@ -88,6 +91,7 @@ Stop termux-x11
 
 * In session 1 (termux), run
 > Click Ctrl+c, enter
+</br>
 
 ---
 <p align="center">Good Luck</p>
