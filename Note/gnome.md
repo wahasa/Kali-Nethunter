@@ -31,3 +31,41 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
+Add new session :
+Swipe the screen from left to right in termux, click 'New Session'.
+
+---
+* Start VNC Server
+
+On Session 2 (Termux), run this command :
+
+> vncstart
+
+On Session 1 (Kali), run this command :
+
+> vncstart
+
+* Open Vnc Viewer
+
+Add (+) VNC Client to connect, fill with :
+
+Address
+
+> localhost:1 
+
+Name
+
+> Kali-Nethunter
+
+To disconnect VNC Client, click (X) on the right.
+
+---
+* Stop VNC Server
+
+On Session 2 (Kali), run this command :
+
+> Click Ctrl+c, enter
+
+On Session 1 (Termux), run this command :
+
+> vncstop
