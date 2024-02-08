@@ -31,7 +31,7 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
-Add new session :
+Add new session :<br/>
 Swipe the screen from left to right in termux, click 'New Session'.
 
 ---
@@ -69,3 +69,9 @@ On Session 2 (Kali), run this command :
 On Session 1 (Termux), run this command :
 
 > vncstop
+<br/>
+
+---
+<p align="center">Good Luck</p>
+
+---
