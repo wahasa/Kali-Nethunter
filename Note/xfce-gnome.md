@@ -8,7 +8,6 @@
 > pkg update ; pkg upgrade
 
 Install Tigervnc
-
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; chmod +x tigervnc ; ./tigervnc
 ```
@@ -18,7 +17,6 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc
 > apt update ; sudo apt upgrade
 
 Switch Gnome
-
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-gnome.sh ; chmod +x xfce-gnome.sh ; ./xfce-gnome.sh
 ```
@@ -47,11 +45,9 @@ Swipe the screen from left to right in termux, click 'New Session'.
 * Start VNC Server
 
 In Session 2 (Termux), run this command
-
 > vncstart
 
 In Session 1 (Kali), run this command
-
 > vncstart
 
 ---
@@ -60,11 +56,9 @@ In Session 1 (Kali), run this command
 Add (+) VNC Client to connect, fill with :
 
 Address
-
 > localhost:1 
 
 Name
-
 > Kali-Nethunter
 
 To disconnect VNC Client, click (X) on the right.
@@ -73,11 +67,9 @@ To disconnect VNC Client, click (X) on the right.
 * Stop VNC Server
 
 In Session 2 (Kali), run this command
-
 > Click Ctrl+c, enter
 
 In Session 1 (Termux), run this command
-
 > vncstop
 </br>
 
