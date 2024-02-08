@@ -65,6 +65,7 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxq
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde.sh ; chmod +x de-kde.sh ; ./de-kde.sh
 ```
 
+---
 Feature
 - [x] Fixed Sound
 - [x] Access to Sdcard
@@ -74,3 +75,42 @@ Feature
 
 Visit problem now in : 
 [Issues](https://github.com/wahasa/nethunter/issues)
+
+---
+## VNC Viewer
+on Kali, run this command to start :
+* Start VNC Server
+
+> vnc-start
+
+---
+* Open Vnc Viewer
+
+Add (+) VNC Client to connect, fill with :
+
+Address
+> localhost:1 
+
+Name
+> Kali-Nethunter
+
+To disconnect VNC Client, click (X) on the right.
+
+---
+* Stop VNC Server
+
+on kali, run this command to stop :
+> vnc-stop
+
+---
+## Termux-x11
+<details></br><summary><b><code>Termux-x11 Android</code></b></summary>
+
+[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Note/Termux-x11fix.md)
+</details>
+</br>
+
+---
+<p align="center">Good Luck</p>
+
+---
