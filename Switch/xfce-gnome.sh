@@ -1,8 +1,9 @@
 #!/bin/bash
 sudo apt update
 sudo dpkg-reconfigure tzdata
-sudo apt install dialog dconf-editor gedit plank rofi -y
+sudo apt install dialog dconf-editor git gedit plank rofi -y
 sudo apt install gnome-session-flashback nautilus gnome-terminal dbus-x11 -y
+#sudo apt install gnome budgie-desktop -y
 rm -rf ~/.vnc/xstartup
 
 wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/xstartup -P ~/.vnc/
@@ -42,7 +43,7 @@ wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher
 wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/org.gnome.Nautilus.dockitem -P ~/.config/plank/dock1/launchers/
 wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/launcher/org.gnome.Terminal.dockitem -P ~/.config/plank/dock1/launchers/
 
-#theme
+#Theme
 mkdir -p ~/.local/share/plank/themes
 mkdir -p ~/.local/share/plank/themes/Azeny
 wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/theme/dock.theme -P ~/.local/share/plank/themes/Azeny/
@@ -54,6 +55,6 @@ wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/theme/do
    echo ""
    echo "In Linux"
    echo "Start Vnc, run vncstart"
-   echo "Exit  Vnc, run ctrl+c"
+   echo "Stop  Vnc, run ctrl+c"
    echo ""
-#rm xfce-gnome.sh
+rm xfce-gnome.sh
