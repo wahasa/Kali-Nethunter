@@ -76,13 +76,6 @@ In Session 2 (Kali), run this command
 
 In Session 1 (Termux), run this command
 > vncstop
-
----
-## Termux-x11
-<details></br><summary><b><code>Termux-x11 Android</code></b></summary>
-
-[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Note/Termux-x11fix.md)
-</details>
 </br>
 
 ---
