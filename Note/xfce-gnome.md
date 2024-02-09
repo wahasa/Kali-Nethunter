@@ -13,6 +13,10 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc
 ```
 
 ---
+Add new session :</br>
+Swipe the screen from left to right in termux, click 'New Session'.
+
+---
 * Commands in Linux
 > apt update ; sudo apt upgrade
 
@@ -38,10 +42,6 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
-Add new session :</br>
-Swipe the screen from left to right in termux, click 'New Session'.
-
----
 * Start VNC Server
 
 In Session 2 (Termux), run this command
