@@ -60,7 +60,22 @@ nano /usr/local/bin/termux-x11
 #!/bin/sh
 export DISPLAY=:1
 export PULSE_SERVER=127.0.0.1
+rm -rf /run/dbus/dbus.pid
+#dbus-launch $HOME/.vnc/xstartup
+
+# --XFCE-- #
 startxfce4
+
+# --LXDE-- #
+#startlxde
+
+# --LXQT-- #
+#startlxqt
+
+# --KDE-- #
+#startplasma-x11
+
+# --END-- #
 ```
 
 * Enable script
