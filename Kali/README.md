@@ -21,7 +21,7 @@ Copy and paste this command to Termux
 ---
 * Install Kali-Linux
 ```
-wget
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Kali/kali.sh ; chmod +x kali.sh ; ./kali.sh
 ```
 
 * Start Kali-Linux
