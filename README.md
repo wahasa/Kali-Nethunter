@@ -156,6 +156,10 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-lx
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-kde.sh ; chmod +x xfce-kde.sh ; ./xfce-kde.sh
 ```
 
+* Swith to Gnome
+
+[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/xfce-gnome.md)
+
 ---
 After switching run the command :
 ```
