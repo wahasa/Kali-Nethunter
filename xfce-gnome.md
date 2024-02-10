@@ -3,16 +3,15 @@
 | <a href="https://discord.gg/GCehyym">Discord</a> | <a href="https://youtube.com/channel/UC3sLb7eZCu72iv3G1yUhUHQ">YouTube</a> |</b></p>
 
 ---
-### Gnome Desktop Kali Nethunter
+### Switch Xfce to Gnome Desktop
 ![Screenshot_2024-02-07-12-15-40-296_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/4baaf2ba-19d8-497c-be73-72f11574988e)
 <p align="center">(Gnome Flashback)</p>
 
 ---
-#### Switch Xfce to Gnome Desktop
-* Commands in Termux
+#### Commands in Termux
 > pkg update ; pkg upgrade
 
-Install Tigervnc
+* Install Tigervnc
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; chmod +x tigervnc ; ./tigervnc
 ```
@@ -22,10 +21,10 @@ Add new session :</br>
 Swipe the screen from left to right in termux, click 'New Session'.
 
 ---
-* Commands in Linux
+#### Commands in Linux
 > apt update ; sudo apt upgrade
 
-Switch Gnome
+* Switch Gnome Desktop
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-gnome.sh ; chmod +x xfce-gnome.sh ; ./xfce-gnome.sh
 ```
