@@ -17,7 +17,7 @@ if [ "$first" != 1 ];then
                         archurl="arm64" ;;
                 arm*)
                         archurl="armhf" ;;
-                x86)
+                i386)
                         archurl="i386" ;;
                 x86_64)
                         archurl="amd64" ;;
@@ -104,6 +104,7 @@ echo "deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-
 touch ~/.hushlogin
 apt update && apt upgrade -y
 apt install apt-utils dialog sudo nano -y
+cp /etc/skel/.bashrc . ; sed -i 's/32/31/g' .bashrc
 rm -rf ~/.bash_profile
 exit" > $folder/root/.bash_profile
 bash $linux
