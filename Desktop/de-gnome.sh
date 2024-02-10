@@ -1,13 +1,13 @@
 #!/bin/bash
 #Get the necessary components
 sudo apt update
-sudo apt install udisks2 tzdata -y
+sudo apt install udisks2 git tzdata -y
 echo " " > /var/lib/dpkg/info/udisks2.postinst
 sudo apt-mark hold udisks2 ; sudo dpkg-reconfigure tzdata
-sudo apt install dialog dconf-editor git gedit plank rofi -y
-sudo apt install gnome-session-flashback nautilus gnome-terminal dbus-x11 -y
-#sudo apt install gnome budgie-desktop -y
+sudo apt install dconf-editor gedit plank rofi -y
+sudo apt install gnome-session-flashback nautilus gnome-terminal firefox-esr -y
 sudo apt install tigervnc-standalone-server dbus-x11 -y
+#sudo apt install gnome budgie-desktop -y
 sudo apt --fix-broken install
 sudo apt clean
 
