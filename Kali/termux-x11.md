@@ -1,6 +1,6 @@
 ### Termux-x11 Kali-Nethunter
 
-![Screenshot_2024-01-22-07-52-44-111_com termux x11](https://github.com/wahasa/Kali-Nethunter/assets/69626847/09d2bb8c-395a-447e-b80e-853d5cdfc696)
+![Screenshot_2024-02-10-14-46-43-828_com termux x11](https://github.com/wahasa/Kali-Nethunter/assets/69626847/989f76d0-e562-480c-91b7-1f769198c0b7)
 <p align="center">Termux-x11</p>
 
 ---
