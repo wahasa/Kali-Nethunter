@@ -39,7 +39,7 @@ Basic commands Kali-Linux
 > apt upgrade : Upgrade package.</br>
 > apt search (pkg) : Search package.</br>
 > apt install (pkg) : Install package.</br>
-> apt autoremove (pkg) : Delete package.</br>
+> apt autoremove (pkg) : Delete pkg.</br>
 > apt -h : Help all commands.
 
 ---
@@ -106,7 +106,7 @@ on kali, run this command to stop :
 ## Termux-x11
 <details></br><summary><b><code>Termux-x11 Android</code></b></summary>
 
-[Click here,.]()
+[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/termux-x11.md)
 </details>
 </br>
 
