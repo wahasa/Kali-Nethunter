@@ -13,6 +13,7 @@ sudo apt clean
 
 #Setup the necessary files
 mkdir -p ~/.vnc
+wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/xstartup -P ~/.vnc/
 wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/vncstart -P /usr/local/bin/
 
 echo "vncserver -geometry 1600x900 -name remote-desktop :1" > /usr/local/bin/vnc-start
