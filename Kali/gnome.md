@@ -3,12 +3,11 @@
 | <a href="https://discord.gg/GCehyym">Discord</a> | <a href="https://youtube.com/channel/UC3sLb7eZCu72iv3G1yUhUHQ">YouTube</a> |</b></p>
 
 ---
-### Gnome Desktop Kali Nethunter
+### Install Gnome Desktop
 ![Screenshot_2024-02-07-12-15-40-296_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/4baaf2ba-19d8-497c-be73-72f11574988e)
 <p align="center">(Gnome Flashback)</p>
 
 ---
-### Install Gnome Desktop
 #### Commands in Termux
 > pkg update ; pkg upgrade
 
