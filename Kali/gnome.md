@@ -8,11 +8,11 @@
 <p align="center">(Gnome Flashback)</p>
 
 ---
-#### Switch Xfce to Gnome Desktop
-* Commands in Termux
+### Install Gnome Desktop
+#### Commands in Termux
 > pkg update ; pkg upgrade
 
-Install Tigervnc
+* Install Tigervnc
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; chmod +x tigervnc ; ./tigervnc
 ```
@@ -22,24 +22,21 @@ Add new session :</br>
 Swipe the screen from left to right in termux, click 'New Session'.
 
 ---
-* Commands in Linux
+#### Commands in Linux
 > apt update ; sudo apt upgrade
 
-Switch Gnome
+* Gnome Desktop
 ```
-wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-gnome.sh ; chmod +x xfce-gnome.sh ; ./xfce-gnome.sh
+wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-gnome.sh ; chmod +x de-gnome.sh ; ./de-gnome.sh
 ```
-
 </br>
-Note :</br>
-[sudo] password for kali:kali
 
 ---
 Feature
 - [x] Fixed Sound
 - [x] Access to Sdcard
 - [x] Access to Termux-x11
-- [x] Fixed Browser Crash  | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note/firefoxfix.md)
+- [x] Fixed Browser Crash  | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note/Firefoxfix.md)
 - [x] Install Applications | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
 
 Visit problem now in : 
