@@ -31,7 +31,7 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Kali/kali.sh ;
 > exit
 
 * Remove Kali-Linux
-> rm -rf kali-*
+> rm -rf kali-fs
 
 ---
 Basic commands Kali-Linux
@@ -45,7 +45,11 @@ Basic commands Kali-Linux
 ---
 ## Desktop Environment
 
-* Xfce Desktop
+<details></br><summary><b><code>Xfce Desktop</code></b></summary>
+
+![Screenshot_2024-02-10-14-48-32-689_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/5199d723-7a06-4324-8c6f-09d3f21ba463)
+</details>
+
 ```
 wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
 ```
