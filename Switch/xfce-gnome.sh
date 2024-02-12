@@ -18,15 +18,6 @@ chmod +x /usr/local/bin/*
    echo ""
    echo "Installing Extra Packages,.."
    echo ""
-#Rofi
-git clone --depth=1 https://github.com/adi1090x/rofi.git
-rm ~/.config/rofi/config.rasi
-rm ~/.config/rofi/launchers/type-3/launcher.sh
-rm ~/.config/rofi/launchers/type-3/style-1.rasi
-wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/theme/launcher.sh -P ~/.config/rofi/launchers/type-3/
-wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/theme/style-1.rasi -P ~/.config/rofi/launchers/type-3/
-chmod +x ~/.config/rofi/launchers/type-3/launcher.sh
-
 #Plank
 git clone --depth=1 https://github.com/adi1090x/rofi.git
 wget https://github.com/wahasa/Ubuntu/raw/main/modded/ubuntu/menu.png -P ~/.local/share/icons/
@@ -49,7 +40,15 @@ mkdir -p ~/.local/share/plank/themes
 mkdir -p ~/.local/share/plank/themes/Azeny
 wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/theme/dock.theme -P ~/.local/share/plank/themes/Azeny/
 
+#Rofi
+git clone --depth=1 https://github.com/adi1090x/rofi.git
 cd rofi ; ./setup.sh ; cd
+rm ~/.config/rofi/config.rasi
+rm ~/.config/rofi/launchers/type-3/launcher.sh
+rm ~/.config/rofi/launchers/type-3/style-1.rasi
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/theme/launcher.sh -P ~/.config/rofi/launchers/type-3/
+wget https://raw.githubusercontent.com/wahasa/Ubuntu/main/modded/ubuntu/theme/style-1.rasi -P ~/.config/rofi/launchers/type-3/
+chmod +x ~/.config/rofi/launchers/type-3/launcher.sh
 #rm -rf rofi
    clear
    echo ""
