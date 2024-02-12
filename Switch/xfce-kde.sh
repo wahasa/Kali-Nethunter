@@ -22,4 +22,5 @@ chmod +x /usr/local/bin/*
    echo ""
    echo "Start Vnc Server, run vnc-start"
    echo "Stop  Vnc Server, run vnc-stop"
+   echo ""
 rm xfce-kde.sh
