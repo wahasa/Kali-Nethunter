@@ -4,7 +4,7 @@
 
 ---
 ### Install Gnome Desktop
-![Screenshot_2024-02-07-12-15-40-296_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/4baaf2ba-19d8-497c-be73-72f11574988e)
+![Screenshot_2024-02-12-08-41-57-852_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/29781e4b-8971-4d6e-900f-d28d3243b559)
 <p align="center">(Gnome Flashback)</p>
 
 ---
