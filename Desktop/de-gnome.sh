@@ -13,6 +13,7 @@ sudo apt clean
 
 #Setup the necessary files
 mkdir -p ~/.vnc
+rm -rf /usr/local/bin/vncstart
 wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/xstartup -P ~/.vnc/
 wget -q https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/vncstart -P /usr/local/bin/
 
