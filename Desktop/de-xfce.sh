@@ -50,4 +50,5 @@ rm .vnc/passwd
    echo ""
    echo "Start Vnc Server, run vnc-start"
    echo "Stop  Vnc Server, run vnc-stop"
+   echo ""
 rm de-xfce.sh
