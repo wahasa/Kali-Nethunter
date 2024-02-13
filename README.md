@@ -14,7 +14,7 @@
 Tutorial Official [Click here,.](https://www.kali.org/docs/nethunter/nethunter-rootless)
 
 ---
-### Installation (Via Rootless)</br>
+### Installation (Rootless)</br>
 Copy and paste this command to Termux :
 
 > pkg update ; pkg upgrade
