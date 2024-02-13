@@ -137,6 +137,7 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde
 ```
 
 * Gnome Desktop
+
 [Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/gnome.md)
 
 ---
@@ -160,6 +161,7 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-kd
 ```
 
 * Swith to Gnome
+
 [Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/xfce-gnome.md)
 
 ---
