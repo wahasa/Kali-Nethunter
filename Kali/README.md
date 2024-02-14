@@ -112,9 +112,9 @@ To disconnect VNC Client, click (X) on the right.
 
 on kali, run this command to stop
 > vnc-stop
+</details>
 
 ---
-</details>
 ## Termux-x11
 <details></br><summary><b><code>Termux-x11 Android</code></b></summary>
 
