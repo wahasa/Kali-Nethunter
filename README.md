@@ -112,6 +112,8 @@ Basic commands Kali-Linux
 
 ---
 ## Desktop Environments
+> sudo apt install wget
+
 <details></br><summary><b><code>Install Desktop (Nano/Minimal)</code></b></summary>
 
 * Xfce Desktop
