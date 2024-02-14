@@ -12,11 +12,9 @@
 
 ---
 ### Installation (Cli Only)</br>
-Copy and paste this command to Termux
+Copy and paste this commands to Termux
 
-> pkg update ; pkg upgrade
-
-> pkg install root-repo x11-repo
+> pkg update
 
 ---
 * Install Kali-Linux
@@ -43,7 +41,9 @@ Basic commands Kali-Linux
 > apt -h : Help all commands.
 
 ---
-## Desktop Environment
+## Desktop Environments
+
+> sudo apt install wget -y
 
 <details></br><summary><b><code>Xfce Desktop</code></b></summary>
 
@@ -71,7 +71,7 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde
 
 * Gnome Desktop
 
-[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/gnome.md)
+[> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/gnome.md)
 </br>
 
 ---
@@ -87,7 +87,7 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
-on Kali, run this command to start :
+on Kali, run this command to start
 * Start VNC Server
 
 > vnc-start
@@ -108,14 +108,14 @@ To disconnect VNC Client, click (X) on the right.
 ---
 * Stop VNC Server
 
-on kali, run this command to stop :
+on kali, run this command to stop
 > vnc-stop
 
 ---
 ## Termux-x11
 <details></br><summary><b><code>Termux-x11 Android</code></b></summary>
 
-[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/termux-x11.md)
+[> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/termux-x11.md)
 </details>
 </br>
 
