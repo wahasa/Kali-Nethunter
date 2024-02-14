@@ -9,4 +9,4 @@ Source Rootfs
 - https://www.kali.org/get-kali/#kali-mobile
 
 Repositories
-- https://http.kali.org/kali/dists/
+- https://http.kali.org/kali/dists
