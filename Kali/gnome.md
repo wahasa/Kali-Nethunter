@@ -9,7 +9,7 @@
 
 ---
 #### Commands in Termux
-> pkg update ; pkg upgrade
+> pkg update
 
 * Install Tigervnc
 ```
@@ -22,7 +22,7 @@ Swipe the screen from left to right in termux, click 'New Session'.
 
 ---
 #### Commands in Linux
-> apt update ; sudo apt upgrade
+> apt update
 
 * Gnome Desktop
 ```
