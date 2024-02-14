@@ -11,7 +11,7 @@
 - [x] [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
 
 ---
-Tutorial Official [Click here,.](https://www.kali.org/docs/nethunter/nethunter-rootless)
+Tutorial Official | [Click here,.](https://www.kali.org/docs/nethunter/nethunter-rootless)
 
 ---
 ### Installation (Rootless)</br>
@@ -21,7 +21,7 @@ Copy and paste this commands to Termux
 
 ---
 <details></br><summary><b><code>Install Kali-Linux With Online</code></b></summary>
-on Termux, run this command :
+on Termux, run this command
 </br></br>
 
 ```
@@ -85,7 +85,7 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 </br>
 Note : v2023.4</br>
 
-Problem update and upgrade [Click here,.](https://github.com/wahasa/Kali-Nethunter/issues/7#issuecomment-1905351583)
+Problem update and upgrade | [Click here,.](https://github.com/wahasa/Kali-Nethunter/issues/7#issuecomment-1905351583)
 
 * Start Kali-Linux
 > nethunter
