@@ -15,11 +15,9 @@ Tutorial Official [Click here,.](https://www.kali.org/docs/nethunter/nethunter-r
 
 ---
 ### Installation (Rootless)</br>
-Copy and paste this command to Termux :
+Copy and paste this commands to Termux
 
-> pkg update ; pkg upgrade
-
-> pkg install root-repo x11-repo
+> pkg update
 
 ---
 <details></br><summary><b><code>Install Kali-Linux With Online</code></b></summary>
@@ -63,7 +61,7 @@ Note :</br>
 * Kali Full (Cli + Pkg Kali + Desktop)
 
 ---
-on Termux, run this command :
+on Termux, run this commands
 
 > termux-setup-storage
 
@@ -113,7 +111,7 @@ Basic commands Kali-Linux
 > apt -h : Help all commands.
 
 ---
-## Desktop Environment
+## Desktop Environments
 <details></br><summary><b><code>Install Desktop (Nano/Minimal)</code></b></summary>
 
 * Xfce Desktop
@@ -138,7 +136,7 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde
 
 * Gnome Desktop
 
-[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/gnome.md)
+[> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/gnome.md)
 
 ---
 </details>
@@ -162,7 +160,7 @@ wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-kd
 
 * Swith to Gnome
 
-[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/xfce-gnome.md)
+[> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/xfce-gnome.md)
 
 ---
 After switching run the command :
@@ -192,7 +190,7 @@ Visit problem now in :
 ## VNC Viewer
 <details></br><summary><b><code>Kali Desktop (Nano/Minimal)</code></b></summary>
 
-on Kali, run this command to start :
+on Kali, run this command to start
 * Start VNC Server
 
 > vnc-start
@@ -213,7 +211,7 @@ To disconnect VNC Client, click (X) on the right.
 ---
 * Stop VNC Server
 
-on kali, run this command to stop :
+on kali, run this command to stop
 > vnc-stop
 
 ---
@@ -221,7 +219,7 @@ on kali, run this command to stop :
 
 <details></br><summary><b><code>Kali Desktop (Full Version)</code></b></summary>
 
-on Kali, run this command to start :
+on Kali, run this command to start
 * Start VNC Server
 
 > kex
@@ -242,7 +240,7 @@ To disconnect VNC Client, click (X) on the right.
 ---
 * Stop VNC Server
 
-on kali, run this command to stop :
+on kali, run this command to stop
 > kex stop
 </details>
 
@@ -250,7 +248,7 @@ on kali, run this command to stop :
 ## Termux-x11
 <details></br><summary><b><code>Termux-x11 Android</code></b></summary>
 
-[Click here,.](https://github.com/wahasa/Kali-Nethunter/blob/main/Note/Termux-x11fix.md)
+[> Click here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Note/Termux-x11fix.md)
 </details>
 </br>
 
