@@ -87,6 +87,8 @@ Visit problem now in :
 
 ---
 ## VNC Viewer
+<details></br><summary><b><code>VNC Viewer Android</code></b></summary>
+
 on Kali, run this command to start
 * Start VNC Server
 
@@ -112,6 +114,7 @@ on kali, run this command to stop
 > vnc-stop
 
 ---
+</details>
 ## Termux-x11
 <details></br><summary><b><code>Termux-x11 Android</code></b></summary>
 
