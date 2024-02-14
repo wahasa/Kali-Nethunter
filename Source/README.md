@@ -7,3 +7,6 @@ Tutorial
 Source Rootfs
 - https://kali.download/nethunter-images
 - https://www.kali.org/get-kali/#kali-mobile
+
+Repositories
+- https://http.kali.org/kali/dists/
