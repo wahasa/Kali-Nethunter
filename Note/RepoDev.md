@@ -1,6 +1,6 @@
 ### Repositories Development
 
-* Commands in Kali
+* Commands in Kali Linux
 ```
 echo "#Kali Development
 deb http://http.kali.org/kali kali-dev main contrib non-free non-free-firmware" > /etc/apt/sources.list
