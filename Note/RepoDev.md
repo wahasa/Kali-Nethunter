@@ -7,4 +7,7 @@ deb http://http.kali.org/kali kali-dev main contrib non-free non-free-firmware" 
 ```
 
 ```
-sudo apt update ; sudo apt upgrade -y
+apt update ; sudo apt upgrade -y
+```
+
+---
