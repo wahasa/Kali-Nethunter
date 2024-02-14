@@ -112,7 +112,7 @@ Basic commands Kali-Linux
 
 ---
 ## Desktop Environments
-> sudo apt install wget
+> sudo apt install wget -y
 
 <details></br><summary><b><code>Install Desktop (Nano/Minimal)</code></b></summary>
 
