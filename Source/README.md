@@ -1,7 +1,7 @@
 Kali Releases
 - https://www.kali.org/releases
 
-Tutorial
+Kali Tutorial
 - https://www.kali.org/docs/nethunter/nethunter-rootless
 
 Source Rootfs
