@@ -42,6 +42,7 @@ Basic commands Kali-Linux
 
 ---
 ## Desktop Environments
+on kali, run this commands
 
 > apt update
 
