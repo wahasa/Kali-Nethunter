@@ -26,7 +26,7 @@ Swipe the screen from left to right in termux, click 'New Session'.
 
 * Gnome Desktop
 ```
-wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-gnome.sh ; chmod +x de-gnome.sh ; ./de-gnome.sh
+sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-gnome.sh ; chmod +x de-gnome.sh ; ./de-gnome.sh
 ```
 </br>
 
