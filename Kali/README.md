@@ -19,7 +19,7 @@ Copy and paste this commands to Termux
 ---
 * Install Kali-Linux
 ```
-wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Kali/kali.sh ; chmod +x kali.sh ; ./kali.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Kali/kali.sh ; chmod +x kali.sh ; ./kali.sh
 ```
 
 * Start Kali-Linux
@@ -43,7 +43,7 @@ Basic commands Kali-Linux
 ---
 ## Desktop Environments
 
-> sudo apt install wget -y
+> apt install wget -y
 
 <details></br><summary><b><code>Xfce Desktop</code></b></summary>
 
