@@ -13,7 +13,7 @@
 
 * Install Tigervnc
 ```
-wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; chmod +x tigervnc ; ./tigervnc
+pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; chmod +x tigervnc ; ./tigervnc
 ```
 
 ---
