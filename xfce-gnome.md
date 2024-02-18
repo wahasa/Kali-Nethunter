@@ -13,7 +13,7 @@
 
 * Install Tigervnc
 ```
-wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; chmod +x tigervnc ; ./tigervnc
+pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Patch/tigervnc ; chmod +x tigervnc ; ./tigervnc
 ```
 
 ---
@@ -26,7 +26,7 @@ Swipe the screen from left to right in termux, click 'New Session'.
 
 * Switch Gnome Desktop
 ```
-wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-gnome.sh ; chmod +x xfce-gnome.sh ; ./xfce-gnome.sh
+sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-gnome.sh ; chmod +x xfce-gnome.sh ; ./xfce-gnome.sh
 ```
 
 </br>
