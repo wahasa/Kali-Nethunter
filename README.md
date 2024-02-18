@@ -112,6 +112,8 @@ Basic commands Kali-Linux
 
 ---
 ## Desktop Environments
+on Kali, run this commands
+
 > apt update
 
 <details></br><summary><b><code>Install Desktop (Nano/Minimal)</code></b></summary>
