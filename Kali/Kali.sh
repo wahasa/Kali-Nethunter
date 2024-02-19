@@ -92,6 +92,9 @@ EOM
    chmod +x $bin
    #Removing image for some space"
    rm $tarball
+#Repositories
+echo "#Kali Repositories
+echo "deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware" > ~/"$folder"/etc/apt/sources.list
 echo '#!/bin/bash
 bash .kali' > $PREFIX/bin/$linux
 chmod +x $PREFIX/bin/$linux
@@ -100,7 +103,6 @@ chmod +x $PREFIX/bin/$linux
    echo "Updating Kali,.."
    echo ""
 echo "#!/bin/bash
-echo "deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware" > /etc/apt/sources.list
 touch ~/.hushlogin
 apt update && apt upgrade -y
 apt install apt-utils dialog sudo nano -y
