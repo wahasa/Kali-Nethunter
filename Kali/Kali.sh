@@ -114,4 +114,4 @@ bash $linux
    echo ""
    echo "You can now start Kali with 'kali' script next time"
    echo ""
-#rm kali.sh
+#rm Kali.sh
