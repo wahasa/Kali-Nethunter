@@ -17,7 +17,8 @@ Copy and paste this commands to Termux
 > pkg update
 
 ---
-#### Install Kali-Linux
+#### Install Kali-linux
+Rootfs : Armhf, Arm64, i386, Amd64
 ```
 pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Kali/Kali.sh ; chmod +x Kali.sh ; ./Kali.sh
 ```
