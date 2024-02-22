@@ -24,6 +24,8 @@ Copy and paste this commands to Termux
 on Termux, run this command
 </br></br>
 
+#### Install Kali-linux
+Rootfs : Armhf, Arm64, i386, Amd64
 ```
 pkg install wget -y ; wget -O install-nethunter-termux https://offs.ec/2MceZWr ; chmod +x install-nethunter-termux ; ./install-nethunter-termux
 ```
@@ -70,6 +72,9 @@ on Termux, run this commands
 > cp (Name file).tar.xz ~/
 
 > cd
+
+#### Install Kali-linux
+
 ```
 pkg install wget -y ; wget -O install-nethunter-termux https://offs.ec/2MceZWr ; chmod +x install-nethunter-termux ; ./install-nethunter-termux
 ```
