@@ -4,3 +4,6 @@ Kali Releases
 
 Source Rootfs
 - https://github.com/EXALAB/Anlinux-Resources/tree/master/Rootfs/Kali
+
+Repositories
+- https://http.kali.org/kali/dists
