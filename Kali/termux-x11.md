@@ -13,7 +13,7 @@ pkg install termux-x11-nightly nano -y
 
 * Download App Termux-x11
 
-[Link Download](https://github.com/termux/termux-x11/releases)
+- [x] [Link Download](https://github.com/termux/termux-x11/releases)
 
 * Edit and remove the sign (#)
 ```
