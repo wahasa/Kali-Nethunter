@@ -11,7 +11,7 @@
 - [x] [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
 
 ---
-Tutorial Official | [Click here,.](https://www.kali.org/docs/nethunter/nethunter-rootless)
+Tutorial Official | [Click Here >](https://www.kali.org/docs/nethunter/nethunter-rootless)
 
 ---
 ### Installation (Rootless)</br>
@@ -85,7 +85,7 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 </br>
 Note : v2023.4</br>
 
-Problem update and upgrade | [Click here,.](https://github.com/wahasa/Kali-Nethunter/issues/7#issuecomment-1905351583)
+Problem update and upgrade | [Click Here >](https://github.com/wahasa/Kali-Nethunter/issues/7#issuecomment-1905351583)
 
 * Start Kali-Linux
 > nethunter
@@ -181,11 +181,11 @@ Note :</br>
 
 ---
 Feature
-- [x] Fixed Sound          | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
-- [x] Access to Sdcard     | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
-- [x] Access to Termux-x11 | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
-- [x] Fixed Browser Crash  | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
-- [x] Install Applications | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
+- [x] Fixed Sound          | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Access to Sdcard     | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Access to Termux-x11 | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Fixed Browser Crash  | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Install Applications | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
 
 Visit problem now in : 
 [Issues](https://github.com/wahasa/nethunter/issues)
@@ -252,7 +252,7 @@ on kali, run this command to stop
 ## Termux-x11
 <details></br><summary><b><code>Termux-x11 Android</code></b></summary>
 
-[> Click here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Note/Termux-x11fix.md)
+[> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Note/Termux-x11fix.md)
 </details>
 </br>
 
