@@ -35,11 +35,10 @@ Note :</br>
 
 ---
 Feature
-- [x] Fixed Sound          | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
-- [x] Access to Sdcard     | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
-- [x] Access to Termux-x11 | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
-- [x] Fixed Browser Crash  | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
-- [x] Install Applications | [Click here,.](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
+- [x] Fixed Sound          | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Access to Sdcard     | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Fixed Browser Crash  | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Note)
+- [x] Install Applications | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
 
 Visit problem now in : 
 [Issues](https://github.com/wahasa/nethunter/issues)
