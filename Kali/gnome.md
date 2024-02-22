@@ -34,7 +34,6 @@ sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Ne
 Feature
 - [x] Fixed Sound
 - [x] Access to Sdcard
-- [x] Access to Termux-x11
 - [x] Fixed Browser Crash  | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Note/Firefoxfix.md)
 - [x] Install Applications | [Click Here >](https://github.com/wahasa/Kali-Nethunter/tree/main/Apps)
 
