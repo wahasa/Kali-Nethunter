@@ -94,7 +94,7 @@ EOM
    rm $tarball
 #Repositories
 echo "#Kali Repositories
-echo "deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware" > ~/"$folder"/etc/apt/sources.list
+deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware" > ~/"$folder"/etc/apt/sources.list
 echo '#!/bin/bash
 bash .kali' > $PREFIX/bin/$linux
 chmod +x $PREFIX/bin/$linux
