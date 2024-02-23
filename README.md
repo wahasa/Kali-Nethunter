@@ -19,7 +19,6 @@ Copy and paste this commands to Termux
 
 > pkg update
 
----
 <details></br><summary><b><code>Install Kali-Linux With Online</code></b></summary>
 on Termux, run this command
 </br></br>
@@ -204,7 +203,6 @@ on Kali, run this command to start
 
 > vnc-start
 
----
 * Open Vnc Viewer
 
 Add (+) VNC Client to connect, fill with :
@@ -217,7 +215,6 @@ Name
 
 To disconnect VNC Client, click (X) on the right.
 
----
 * Stop VNC Server
 
 on kali, run this command to stop
@@ -235,7 +232,6 @@ on Kali, run this command to start
 
 > kex
 
----
 * Open Vnc Viewer
 
 Add (+) VNC Client to connect, fill with :
@@ -248,7 +244,6 @@ Name
 
 To disconnect VNC Client, click (X) on the right.
 
----
 * Stop VNC Server
 
 on kali, run this command to stop
