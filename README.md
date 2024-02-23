@@ -19,9 +19,8 @@ Copy and paste this commands to Termux
 
 > pkg update
 
-<details></br><summary><b><code>Install Kali-Linux With Online</code></b></summary>
+<details><summary><b><code>Install Kali-Linux With Online</code></b></summary>
 on Termux, run this command
-</br></br>
 
 #### Install Kali-linux
 Rootfs : Armhf, Arm64, i386, Amd64
@@ -199,26 +198,34 @@ Visit problem now in :
 <details></br><summary><b><code>Kali Desktop (Nano/Minimal)</code></b></summary>
 
 * Start VNC Server
-on Kali, run this command to start
 
-> vnc-start
+on Kali, run this command to start
+```
+vnc-start
+```
 
 * Open Vnc Viewer
 
 Add (+) VNC Client to connect, fill with :
 
 Address
-> localhost:1 
+```
+localhost:1
+```
 
 Name
-> Kali-Nethunter
+```
+Kali Desktop
+```
 
 To disconnect VNC Client, click (X) on the right.
 
 * Stop VNC Server
 
 on kali, run this command to stop
-> vnc-stop
+```
+vnc-stop
+```
 
 ---
 </details>
@@ -229,25 +236,32 @@ on kali, run this command to stop
 * Start VNC Server
 
 on Kali, run this command to start
-
-> kex
+```
+kex
+```
 
 * Open Vnc Viewer
 
 Add (+) VNC Client to connect, fill with :
 
 Address
-> localhost:1 
+```
+localhost:1
+```
 
 Name
-> Kali-Nethunter
+```
+Kali-Nethunter
+```
 
 To disconnect VNC Client, click (X) on the right.
 
 * Stop VNC Server
 
 on kali, run this command to stop
-> kex stop
+```
+kex stop
+```
 </details>
 
 ---
