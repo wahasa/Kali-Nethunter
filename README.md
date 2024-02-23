@@ -109,7 +109,7 @@ Basic commands Kali-Linux
 > apt upgrade : Upgrade package.</br>
 > apt search (pkg) : Search package.</br>
 > apt install (pkg) : Install package.</br>
-> apt autoremove (pkg) : Delete package.</br>
+> apt autoremove (pkg) : Delete pkg.</br>
 > apt -h : Help all commands.
 
 ---
