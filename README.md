@@ -74,7 +74,6 @@ on Termux, run this commands
 > cd
 
 #### Install Kali-linux
-
 ```
 pkg install wget -y ; wget -O install-nethunter-termux https://offs.ec/2MceZWr ; chmod +x install-nethunter-termux ; ./install-nethunter-termux
 ```
@@ -98,7 +97,7 @@ Problem update and upgrade | [Click Here >](https://github.com/wahasa/Kali-Nethu
 * Stop Kali-Linux
 > exit
 
-* Remove Kali-Linux
+* Delete Kali-Linux
 > rm -rf kali-*
 
 </br>
@@ -150,6 +149,7 @@ sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Ne
 ---
 </details>
 
+###
 <details></br><summary><b><code>Swith Desktop (Full Version)</code></b></summary>
 
 * Swith to Lxde
@@ -199,8 +199,8 @@ Visit problem now in :
 ## VNC Viewer
 <details></br><summary><b><code>Kali Desktop (Nano/Minimal)</code></b></summary>
 
-on Kali, run this command to start
 * Start VNC Server
+on Kali, run this command to start
 
 > vnc-start
 
@@ -226,10 +226,12 @@ on kali, run this command to stop
 ---
 </details>
 
+####
 <details></br><summary><b><code>Kali Desktop (Full Version)</code></b></summary>
 
-on Kali, run this command to start
 * Start VNC Server
+
+on Kali, run this command to start
 
 > kex
 
