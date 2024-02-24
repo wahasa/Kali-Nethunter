@@ -13,7 +13,6 @@
 ---
 ### Installation (Cli Only)</br>
 Copy and paste this commands to Termux
-
 > pkg update
 
 ---
@@ -30,7 +29,7 @@ pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunt
 * Stop Kali-Linux
 > exit
 
-* Remove Kali-Linux
+* Delete Kali-Linux
 > rm -rf kali-fs
 
 ---
@@ -48,11 +47,10 @@ on kali, run this commands
 
 > apt update
 
-<details></br><summary><b><code>Xfce Desktop</code></b></summary>
+<details><summary><b><code>Xfce Desktop</code></b></summary>
 
 ![Screenshot_2024-02-10-14-48-32-689_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/5199d723-7a06-4324-8c6f-09d3f21ba463)
 </details>
-
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
 ```
@@ -92,9 +90,9 @@ Visit problem now in :
 ## VNC Viewer
 <details></br><summary><b><code>VNC Viewer Android</code></b></summary>
 
-on Kali, run this command to start
 * Start VNC Server
 
+on Kali, run this command to start
 > vnc-start
 
 ---
@@ -106,7 +104,7 @@ Address
 > localhost:1 
 
 Name
-> Kali-Nethunter
+> Kali Desktop
 
 To disconnect VNC Client, click (X) on the right.
 
