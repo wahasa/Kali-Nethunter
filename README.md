@@ -85,8 +85,7 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 </details>
 
 </br>
-Note : v2023.4</br>
-
+Note :</br>
 Problem update and upgrade | [Click Here >](https://github.com/wahasa/Kali-Nethunter/issues/7#issuecomment-1905351583)
 
 * Start Kali-Linux
