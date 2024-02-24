@@ -15,7 +15,6 @@
 Copy and paste this commands to Termux
 > pkg update
 
----
 #### Install Kali-linux
 Rootfs : Armhf, Arm64, i386, Amd64
 ```
@@ -51,6 +50,7 @@ on kali, run this commands
 
 ![Screenshot_2024-02-10-14-48-32-689_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/5199d723-7a06-4324-8c6f-09d3f21ba463)
 </details>
+
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
 ```
