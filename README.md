@@ -128,6 +128,7 @@ on Kali, run this commands
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kali.sh ; chmod +x de-kali.sh ; ./de-kali.sh
 ```
+</details>
 
 * Xfce Desktop
 ```
