@@ -4,6 +4,7 @@
 
 ---
 ## Kali-Linux on Termux Android
+![k_default](https://github.com/wahasa/Kali-Nethunter/assets/69626847/dac14e1b-471d-4365-93b3-f1a78e180f38)
 
 ---
 • Install Apps on Android
@@ -147,7 +148,6 @@ sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Ne
 ---
 </details>
 
-###
 <details></br><summary><b><code>Swith Desktop (Full Version)</code></b></summary>
 
 * Swith to Lxde
