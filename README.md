@@ -121,6 +121,14 @@ on Kali, run this commands
 
 <details></br><summary><b><code>Install Desktop (Nano/Minimal)</code></b></summary>
 
+<details><summary><b><code>Kali Desktop
+</code></b></summary>
+
+![Screenshot_2024-02-26-06-23-17-803_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/4ffeec7d-cdbe-432e-ab5d-4becc5da15d6)
+```
+sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kali.sh ; chmod +x de-kali.sh ; ./de-kali.sh
+```
+
 * Xfce Desktop
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
