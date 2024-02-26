@@ -119,10 +119,9 @@ on Kali, run this commands
 
 > apt update
 
-<details></br><summary><b><code>Install Desktop (Nano/Minimal)</code></b></summary>
+<details></br><summary><b><code>Install Desktop (Nano/Minimal</code></b></summary>
 
-<details><summary><b><code>Kali Desktop
-</code></b></summary>
+<details><summary><b><code>Kali Desktop </code></b></summary>
 
 ![Screenshot_2024-02-26-06-23-17-803_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/4ffeec7d-cdbe-432e-ab5d-4becc5da15d6)
 ```
@@ -130,53 +129,69 @@ sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Ne
 ```
 </details>
 
-* Xfce Desktop
+<details><summary><b><code>Xfce Desktop</code></b></summary>
+
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-xfce.sh ; chmod +x de-xfce.sh ; ./de-xfce.sh
 ```
+</details>
 
-* Lxde Desktop
+<details><summary><b><code>Lxde Desktop</code></b></summary>
+
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxde.sh ; chmod +x de-lxde.sh ; ./de-lxde.sh
 ```
+</details>
 
-* Lxqt Desktop
+<details><summary><b><code>Lxqt Desktop</code></b></summary>
+
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxqt.sh ; chmod +x de-lxqt.sh ; ./de-lxqt.sh
 ```
+</details>
 
-* Kde Desktop
+<details><summary><b><code>Kde Desktop</code></b></summary>
+
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde.sh ; chmod +x de-kde.sh ; ./de-kde.sh
 ```
+</details>
 
-* Gnome Desktop
+<details></br><summary><b><code>Gnome Desktop</code></b></summary>
 
 [> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/gnome.md)
+</details>
 
 ---
 </details>
 
 <details></br><summary><b><code>Swith Desktop (Full Version)</code></b></summary>
 
-* Swith to Lxde
+<details><summary><b><code>Swith to Lxde</code></b></summary>
+
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-lxde.sh ; chmod +x xfce-lxde.sh ; ./xfce-lxde.sh
 ```
+</details>
 
-* Swith to Lxqt
+<details><summary><b><code>Swith to Lxqt</code></b></summary>
+
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-lxqt.sh ; chmod +x xfce-lxqt.sh ; ./xfce-lxqt.sh
 ```
+</details>
 
-* Swith to Kde
+<details><summary><b><code>Swith to Kde</code></b></summary>
+
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-kde.sh ; chmod +x xfce-kde.sh ; ./xfce-kde.sh
 ```
+</details>
 
-* Swith to Gnome
+<details></br><summary><b><code>Swith to Gnome</code></b></summary>
 
 [> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/xfce-gnome.md)
+</details>
 
 ---
 After switching run the command :
