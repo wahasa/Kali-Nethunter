@@ -94,26 +94,32 @@ Visit problem now in :
 * Start VNC Server
 
 on Kali, run this command to start
-> vnc-start
+```
+vnc-start
+```
 
----
 * Open Vnc Viewer
 
 Add (+) VNC Client to connect, fill with :
 
 Address
-> localhost:1 
+```
+localhost:1 
+```
 
 Name
-> Kali Desktop
+```
+Kali Desktop
+```
 
 To disconnect VNC Client, click (X) on the right.
 
----
 * Stop VNC Server
 
 on kali, run this command to stop
-> vnc-stop
+```
+vnc-stop
+```
 </details>
 
 ---
