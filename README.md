@@ -63,14 +63,18 @@ Note :</br>
 
 ---
 on Termux, run this commands
-
-> termux-setup-storage
-
-> cd /sdcard/Download
-
-> cp (Name file).tar.xz ~/
-
-> cd
+```
+termux-setup-storage
+```
+```
+cd /sdcard/Download
+```
+```
+cp (Name file).tar.xz ~/
+```
+```
+cd
+```
 
 #### Install Kali-linux
 ```
@@ -91,13 +95,19 @@ Note :</br>
 Problem update and upgrade | [Click Here >](https://github.com/wahasa/Kali-Nethunter/issues/7#issuecomment-1905351583)
 
 * Start Kali-Linux
-> nethunter
+```
+nethunter
+```
 
 * Stop Kali-Linux
-> exit
+```
+exit
+```
 
 * Delete Kali-Linux
-> rm -rf kali-*
+```
+rm -rf kali-*
+```
 
 </br>
 Note :</br>
