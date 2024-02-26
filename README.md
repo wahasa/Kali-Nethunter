@@ -164,7 +164,6 @@ sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Ne
 
 ---
 </details>
-
 <details></br><summary><b><code>Swith Desktop (Full Version)</code></b></summary>
 
 <details><summary><b><code>Swith to Lxde</code></b></summary>
