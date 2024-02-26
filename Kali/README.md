@@ -53,7 +53,7 @@ on kali, run this commands
 
 > apt update
 
-<details><summary><b><code>Kali Desktop </code></b></summary>
+<details><summary><b><code>Install Kali Desktop </code></b></summary>
 
 ![Screenshot_2024-02-26-06-23-17-803_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/4ffeec7d-cdbe-432e-ab5d-4becc5da15d6)
 ```
@@ -61,7 +61,7 @@ sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Ne
 ```
 </details>
 
-<details><summary><b><code>Xfce Desktop</code></b></summary>
+<details><summary><b><code>Install Xfce Desktop</code></b></summary>
 
 ![Screenshot_2024-02-10-14-48-32-689_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/5199d723-7a06-4324-8c6f-09d3f21ba463)
 ```
@@ -69,28 +69,28 @@ apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunt
 ```
 </details>
 
-<details><summary><b><code>Lxde Desktop</code></b></summary>
+<details><summary><b><code>Install Lxde Desktop</code></b></summary>
 
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxde.sh ; chmod +x de-lxde.sh ; ./de-lxde.sh
 ```
 </details>
 
-<details><summary><b><code>Lxqt Desktop</code></b></summary>
+<details><summary><b><code>Install Lxqt Desktop</code></b></summary>
 
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxqt.sh ; chmod +x de-lxqt.sh ; ./de-lxqt.sh
 ```
 </details>
 
-<details><summary><b><code>Kde Desktop</code></b></summary>
+<details><summary><b><code>Install Kde Desktop</code></b></summary>
 
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde.sh ; chmod +x de-kde.sh ; ./de-kde.sh
 ```
 </details>
 
-<details></br><summary><b><code>Gnome Desktop</code></b></summary>
+<details></br><summary><b><code>Install Gnome Desktop</code></b></summary>
 
 [> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/gnome.md)
 </details>
