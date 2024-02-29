@@ -105,7 +105,7 @@ chmod +x $PREFIX/bin/$linux
 echo "#!/bin/bash
 touch ~/.hushlogin
 apt update && apt upgrade -y
-apt install apt-utils dialog sudo nano -y
+apt install apt-utils dialog nano sudo -y
 cp /etc/skel/.bashrc . ; sed -i 's/32/31/g' .bashrc
 rm -rf ~/.bash_profile
 exit" > $folder/root/.bash_profile
