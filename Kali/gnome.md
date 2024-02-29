@@ -59,7 +59,7 @@ Address
 > localhost:1 
 
 Name
-> Kali-Nethunter
+> Kali Desktop
 
 To disconnect VNC Client, click (X) on the right.
 
