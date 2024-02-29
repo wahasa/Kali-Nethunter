@@ -47,10 +47,10 @@ Visit problem now in :
 ## VNC Viewer
 * Start VNC Server
 
-In Session 2 (Termux), run this command
+In Session 1 (Termux), run this command
 > vncstart
 
-In Session 1 (Kali), run this command
+To Session 2 (Kali), run this command
 > vncstart
 
 ---
@@ -72,7 +72,7 @@ To disconnect VNC Client, click (X) on the right.
 In Session 2 (Kali), run this command
 > Click Ctrl+c, enter
 
-In Session 1 (Termux), run this command
+To Session 1 (Termux), run this command
 > vncstop
 </br>
 
