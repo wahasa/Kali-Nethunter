@@ -181,6 +181,7 @@ sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Ne
 
 <details><summary><b><code>Swith to Lxde</code></b></summary>
 
+![Screenshot_2024-03-10-14-37-33-976_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/8c19f07d-ea86-46a8-bd95-546313517031)
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-lxde.sh ; chmod +x xfce-lxde.sh ; ./xfce-lxde.sh
 ```
@@ -188,6 +189,7 @@ sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Ne
 
 <details><summary><b><code>Swith to Lxqt</code></b></summary>
 
+![Screenshot_2024-03-10-14-02-10-830_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/e8e3341e-8b97-4f06-b4d6-b5bd7fd20e74)
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-lxqt.sh ; chmod +x xfce-lxqt.sh ; ./xfce-lxqt.sh
 ```
@@ -195,6 +197,7 @@ sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Ne
 
 <details><summary><b><code>Swith to Kde</code></b></summary>
 
+![Screenshot_2024-03-10-13-58-03-296_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/197385c9-c491-4885-87da-49f59f44567e)
 ```
 sudo apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Switch/xfce-kde.sh ; chmod +x xfce-kde.sh ; ./xfce-kde.sh
 ```
