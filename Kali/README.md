@@ -71,6 +71,7 @@ apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunt
 
 <details><summary><b><code>Install Lxde Desktop</code></b></summary>
 
+![Screenshot_2024-03-10-14-37-33-976_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/8c19f07d-ea86-46a8-bd95-546313517031)
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxde.sh ; chmod +x de-lxde.sh ; ./de-lxde.sh
 ```
@@ -78,6 +79,7 @@ apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunt
 
 <details><summary><b><code>Install Lxqt Desktop</code></b></summary>
 
+![Screenshot_2024-03-10-14-02-10-830_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/e8e3341e-8b97-4f06-b4d6-b5bd7fd20e74)
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-lxqt.sh ; chmod +x de-lxqt.sh ; ./de-lxqt.sh
 ```
@@ -85,6 +87,7 @@ apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunt
 
 <details><summary><b><code>Install Kde Desktop</code></b></summary>
 
+![Screenshot_2024-03-10-13-58-03-296_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/197385c9-c491-4885-87da-49f59f44567e)
 ```
 apt install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Desktop/de-kde.sh ; chmod +x de-kde.sh ; ./de-kde.sh
 ```
