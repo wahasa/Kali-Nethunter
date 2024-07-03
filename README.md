@@ -89,9 +89,6 @@ If there are options (Y/N), select (N) all. the extract time is 10-15 minutes an
 ---
 </details>
 
-Note :</br>
-Problem update and upgrade | [Click Here >](https://github.com/wahasa/Kali-Nethunter/issues/7#issuecomment-1905351583)
-
 * Start Kali-Linux
 ```
 nethunter
@@ -238,7 +235,7 @@ Visit problem now in :
 
 * Start VNC Server
 
-on Kali, run this command to start
+In Kali, run this command to start
 ```
 vnc-start
 ```
@@ -261,7 +258,7 @@ To disconnect VNC Client, click (X) on the right.
 
 * Stop VNC Server
 
-on kali, run this command to stop
+In Kali, run this command to stop
 ```
 vnc-stop
 ```
@@ -273,7 +270,7 @@ vnc-stop
 
 * Start VNC Server
 
-on Kali, run this command to start
+In Kali, run this command to start
 ```
 kex
 ```
@@ -296,7 +293,7 @@ To disconnect VNC Client, click (X) on the right.
 
 * Stop VNC Server
 
-on kali, run this command to stop
+In Kali, run this command to stop
 ```
 kex stop
 ```
