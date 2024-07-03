@@ -21,7 +21,7 @@ Copy and paste this commands to Termux
 > pkg update
 
 <details><summary><b><code>Install Kali-Linux With Online</code></b></summary>
-on Termux, run this command
+In Termux, run this command
 
 #### Install Kali-linux
 Rootfs : Armhf, Arm64, i386, Amd64
@@ -43,7 +43,7 @@ Kali Full file size is < 2Gb, the extract time is 10-15 minutes and when it is f
 
 <details></br><summary><b><code>Install kali-Linux With Sdcard</code></b></summary>
 
-Before downloading, run this command to termux :
+Before download, run this command to termux :
 
 > uname -m
 
@@ -62,7 +62,7 @@ Note :</br>
 * Kali Full (Cli + Pkg Kali + Desktop)
 
 ---
-on Termux, run this commands
+In Termux, run this commands
 ```
 termux-setup-storage
 ```
@@ -102,9 +102,9 @@ nethunter
 exit
 ```
 
-* Delete Kali-Linux
+* Remove Kali-Linux
 ```
-rm -rf kali-*
+rm -rf kali-* $PREFIX/bin/nethunter
 ```
 
 </br>
