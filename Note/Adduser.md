@@ -16,7 +16,7 @@ sudo adduser (username)
 
 > Press enter to skip adding data.
 
-> If there is a (y/n) option select y.
+> If there is a (y/n) option, select y.
 
 * Delete Username
 ```
