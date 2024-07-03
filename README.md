@@ -20,7 +20,7 @@ Copy and paste this commands to Termux
 
 > pkg update
 
-<details><summary><b><code>Install Kali-Linux With Online</code></b></summary>
+<details></br><summary><b><code>Install Kali-Linux With Online</code></b></summary>
 In Termux, run this command
 
 #### Install Kali-linux
@@ -123,7 +123,7 @@ Basic commands Kali-Linux
 
 ---
 ## Desktop Environments
-on Kali, run this commands
+In Kali, run this commands
 
 > apt update
 
