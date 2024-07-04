@@ -4,11 +4,11 @@
 
 ---
 ### Kali-Linux on Termux Android
-![k_default](https://github.com/wahasa/Kali-Nethunter/assets/69626847/dac14e1b-471d-4365-93b3-f1a78e180f38)
+![Kali](https://github.com/wahasa/Project/assets/69626847/4433ab43-110d-442a-a3da-882a20225a5c)
 
 ---
 • Install Apps on Android
-- [x] [Termux](https://apkcombo.com/id/termux/com.termux)
+- [x] [Termux](https://play.google.com/store/apps/details?id=com.termux)
 - [x] [Vnc Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android)
 
 ---
@@ -33,9 +33,9 @@ kali
 exit
 ```
 
-* Delete Kali-Linux
+* Remove Kali-Linux
 ```
-rm -rf kali-fs
+rm -rf kali-fs .kali $PREFIX/bin/kali
 ```
 
 ---
@@ -115,7 +115,7 @@ Visit problem now in :
 
 * Start VNC Server
 
-on Kali, run this command to start
+In Kali, run this command to start
 ```
 vnc-start
 ```
@@ -138,7 +138,7 @@ To disconnect VNC Client, click (X) on the right.
 
 * Stop VNC Server
 
-on kali, run this command to stop
+In kali, run this command to stop
 ```
 vnc-stop
 ```
