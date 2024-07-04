@@ -6,7 +6,7 @@ kali=kali
 folder=kali-fs
 if [ -d "$folder" ]; then
         first=1
-        echo "skipping downloading"
+        echo "Skipping Downloading"
 fi
 tarball="kali-rootfs.tar.xz"
 if [ "$first" != 1 ];then
@@ -22,7 +22,7 @@ if [ "$first" != 1 ];then
                 x86_64)
                         archurl="amd64" ;;
                 *)
-                        echo "unknown architecture"; exit 1 ;;
+                        echo "Unknown Architecture"; exit 1 ;;
                 esac
                 wget "https://github.com/EXALAB/Anlinux-Resources/raw/master/Rootfs/Kali/${archurl}/${kali}-rootfs-${archurl}.tar.xz" -O $tarball
         fi
