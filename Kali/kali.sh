@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 pkg install root-repo x11-repo
-pkg install proot pulseaudio -y
+pkg install proot xz-utils pulseaudio -y
 termux-setup-storage
 kali=kali
 folder=kali-fs
@@ -93,17 +93,16 @@ EOM
    #Removing image for some space"
    rm $tarball
 #Repositories
-echo "#Kali Repositories
-deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware" > ~/"$folder"/etc/apt/sources.list
-echo '#!/bin/bash
-bash .kali' > $PREFIX/bin/$linux
+#echo "#Kali Repositories
+#deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware" > ~/"$folder"/etc/apt/sources.list
+echo "export PULSE_SERVER=127.0.0.1" >> $folder/root/.bashrc
+echo 'bash .kali' > $PREFIX/bin/$linux
 chmod +x $PREFIX/bin/$linux
    clear
    echo ""
    echo "Updating Kali,.."
    echo ""
 echo "#!/bin/bash
-touch ~/.hushlogin
 apt update && apt upgrade -y
 apt install apt-utils dialog nano sudo -y
 cp /etc/skel/.bashrc . ; sed -i 's/32/31/g' .bashrc
@@ -112,6 +111,10 @@ exit" > $folder/root/.bash_profile
 bash $linux
    clear
    echo ""
-   echo "You can now start Kali with 'kali' script next time"
+   echo "You can login to Kali with 'kali' script next time"
    echo ""
-#rm Kali.sh
+   #rm Kali.sh
+
+#
+# Script edited by 'WaHaSa', Script V3-revision.
+#
