@@ -95,7 +95,7 @@ EOM
 #Repositories
 echo "#Kali Repositories
 deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware" > ~/"$folder"/etc/apt/sources.list
-echo "export PULSE_SERVER=127.0.0.1" >> $folder/root/.bashrc
+echo "export PULSE_SERVER=127.0.0.1" >> $folder/etc/skel/.bashrc
 echo 'bash .kali' > $PREFIX/bin/$linux
 chmod +x $PREFIX/bin/$linux
    clear
