@@ -19,7 +19,7 @@ Copy and paste this commands to Termux
 #### Install Kali-linux
 Rootfs : Armhf, Arm64, i386, Amd64
 ```
-pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Kali/Kali.sh ; chmod +x Kali.sh ; ./Kali.sh
+pkg install wget -y ; wget https://raw.githubusercontent.com/wahasa/Kali-Nethunter/main/Kali/kali.sh ; chmod +x kali.sh ; ./kali.sh
 ```
 
 ---
