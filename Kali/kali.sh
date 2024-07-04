@@ -113,7 +113,7 @@ bash $linux
    echo ""
    echo "You can login to Kali with 'kali' script next time"
    echo ""
-   #rm Kali.sh
+   #rm kali.sh
 
 #
 # Script edited by 'WaHaSa', Script V3-revision.
