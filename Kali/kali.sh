@@ -91,7 +91,7 @@ EOM
    #Making $linux executable"
    chmod +x $bin
    #Removing image for some space"
-   rm $tarball
+   #rm $tarball
 #Repositories
 #echo "#Kali Repositories
 #deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware" > ~/"$folder"/etc/apt/sources.list
