@@ -85,10 +85,9 @@ pkg install wget -y ; wget -O install-nethunter-termux https://offs.ec/2MceZWr ;
 
 Note :</br>
 If there are options (Y/N), select (N) all. the extract time is 10-15 minutes and when it is finished it will be taken to the Kali-Nethunter menu.
-
----
 </details>
 
+---
 * Start Kali-Linux
 ```
 nethunter
