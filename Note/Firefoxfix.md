@@ -1,5 +1,4 @@
-### Fixed Firefox Kali-Nethunter
-
+### Fixed Firefox on Kali Linux
 ![firefox](https://github.com/wahasa/Project/assets/69626847/1a6adff8-986b-4d10-bf7a-33cc64aae616)
 
 ---
@@ -8,7 +7,6 @@
 
 * Uninstall Firefox
 > sudo apt autoremove firefox-esr -y
-
 </br>
 Note :</br>
 [sudo] password for kali:kali
