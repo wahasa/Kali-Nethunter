@@ -148,7 +148,7 @@ vnc-stop
 ## Termux-x11
 <details></br><summary><b><code>Termux-x11 Android</code></b></summary>
 
-[> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/termux-x11.md)
+[> Click Here <](https://github.com/wahasa/Kali-Nethunter/blob/main/Kali/Termux-x11.md)
 </details>
 </br>
 
