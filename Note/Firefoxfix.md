@@ -1,5 +1,6 @@
 ### Fixed Firefox Kali-Nethunter
-![Screenshot_2024-01-19-08-26-52-107_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/3c1f5397-2e82-4cea-9764-8e27bcd7f6ef)
+
+![firefox](https://github.com/wahasa/Project/assets/69626847/1a6adff8-986b-4d10-bf7a-33cc64aae616)
 
 ---
 * Install Firefox
