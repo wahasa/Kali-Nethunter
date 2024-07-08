@@ -12,7 +12,6 @@ Note :</br>
 ```
 sudo adduser (username)
 ```
-
 > Create a new password.
 
 > Press enter to skip adding data.
