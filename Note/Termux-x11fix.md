@@ -1,4 +1,4 @@
-### Termux-x11 Kali-Nethunter
+### Termux-x11 on Kali Linux
 
 ![TermuxX11](https://github.com/wahasa/Project/assets/69626847/07a7b273-7214-4a94-98b4-90b50b4720c0)
 
