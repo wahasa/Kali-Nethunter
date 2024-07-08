@@ -1,5 +1,5 @@
-### Fixed Chromium Kali-Nethunter
-![Screenshot_2024-01-19-08-55-00-062_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/8e8206f1-fb6f-4b7b-b571-30c81182c8b5)
+### Fixed Chromium on Kali Linux
+![chromium](https://github.com/wahasa/Project/assets/69626847/117de597-339d-48a9-9ea0-7be2bf32d125)
 
 ---
 * Install Chromium
