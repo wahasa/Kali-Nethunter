@@ -1,4 +1,4 @@
-### Fixed Sound Kali-Nethunter
+### Fixed Sound on Kali-Nethunter
 ![Screenshot_2024-01-19-10-10-35-087_com realvnc viewer android](https://github.com/wahasa/Kali-Nethunter/assets/69626847/aed66455-ca2b-4566-bffc-354511fefb6c)
 
 ---
