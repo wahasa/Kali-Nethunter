@@ -1,16 +1,17 @@
-### Termux-x11 Kali-Nethunter
+### Termux-x11 on Kali Linux
 
 ![TermuxX11](https://github.com/wahasa/Project/assets/69626847/07a7b273-7214-4a94-98b4-90b50b4720c0)
 
 ---
 #### Commands in Termux
+> pkg install nano -y
 
 * Install Package
 ```
-pkg install termux-x11-nightly nano -y
+pkg install termux-x11-nightly -y
 ```
 
-* Download App Termux-x11
+* App Termux-x11
 
 - [x] [Link Download](https://github.com/termux/termux-x11/releases)
 
