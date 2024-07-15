@@ -4,7 +4,7 @@
 
 ---
 ## Kali-Linux on Termux Android
-![Kali](https://github.com/wahasa/Project/assets/69626847/4433ab43-110d-442a-a3da-882a20225a5c)
+![Kali](https://github.com/user-attachments/assets/7169f441-0c4f-4bc2-b1c6-8c915fe898f4)
 
 ---
 • Install Apps on Android
